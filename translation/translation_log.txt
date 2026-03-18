@@ -1,0 +1,1704 @@
+en -> ja: C# -> C
+ja -> ko: C -> C
+ko -> pt: C -> C
+pt -> zh: C -> c'
+zh -> ar: c' -> (ج)
+ar -> tr: (ج) -> (C)
+tr -> tk: (C) -> C
+tk -> ru: C -> C
+ru -> nl: C -> C
+nl -> az: C -> C
+az -> en: C -> C
+C# -> C
+en -> ja: C Sharp -> C♯
+ja -> ko: C♯ -> C
+ko -> pt: C -> C
+pt -> zh: C -> c'
+zh -> ar: c' -> (ج)
+ar -> tr: (ج) -> (C)
+tr -> tk: (C) -> C
+tk -> ru: C -> C
+ru -> nl: C -> C
+nl -> az: C -> C
+az -> en: C -> C
+C Sharp -> C
+en -> ja: Roslyn -> ロズリン
+ja -> ko: ロズリン -> 로슬린
+ko -> pt: 로슬린 -> Roslyn
+pt -> zh: Roslyn -> Roslyn
+zh -> ar: Roslyn -> روسلين
+ar -> tr: روسلين -> Rosslyn
+tr -> tk: Rosslyn -> Rosslyn
+tk -> ru: Rosslyn -> Росслин
+ru -> nl: Росслин -> Rosslyn
+nl -> az: Rosslyn -> Roslin
+az -> en: Roslin -> Roslyn
+Roslyn -> Roslyn
+en -> ja: add -> 追加
+ja -> ko: 追加 -> 추가
+ko -> pt: 추가 -> Adicionar
+pt -> zh: Adicionar -> 新增
+zh -> ar: 新增 -> جديد
+ar -> tr: جديد -> % 1:% 2 yeni,% 3 görüntülendi
+tr -> tk: % 1:% 2 yeni,% 3 görüntülendi -> % 1: % 2 täze, % 3 seredildi
+tk -> ru: % 1: % 2 täze, % 3 seredildi -> % 1: % 2 новое, % 3 рассмотрено
+ru -> nl: % 1: % 2 новое, % 3 рассмотрено -> % 1: % 2 nieuw, % 3 beoordeeld
+nl -> az: % 1: % 2 nieuw, % 3 beoordeeld -> % 1: % 2 yeni, % 3 nəzərdən keçirilib
+az -> en: % 1: % 2 yeni, % 3 nəzərdən keçirilib -> % 1: % 2 new, % 3 reviewed
+add -> % 1: % 2 new, % 3 reviewed
+en -> ja: alias -> エイリアス
+ja -> ko: エイリアス -> 에일리어스(alias)
+ko -> pt: 에일리어스(alias) -> alias
+pt -> zh: alias -> 別名：
+zh -> ar: 別名： -> الاسم المستعار:
+ar -> tr: الاسم المستعار: -> & Takma Ad
+tr -> tk: & Takma Ad -> & Ad
+tk -> ru: & Ad -> Имя
+ru -> nl: Имя -> Name
+nl -> az: Name -> Ad
+az -> en: Ad -> Camera Model:
+alias -> Camera Model:
+en -> ja: allows -> ことができます
+ja -> ko: ことができます -> 할 수 있습니다.
+ko -> pt: 할 수 있습니다. -> Eu sou capaz.
+pt -> zh: Eu sou capaz. -> 我可以做到。
+zh -> ar: 我可以做到。 -> أستطيع أن أفعل ذلك.
+ar -> tr: أستطيع أن أفعل ذلك. -> Yapabilirim ben de.
+tr -> tk: Yapabilirim ben de. -> Men hem edip bilerin.
+tk -> ru: Men hem edip bilerin. -> Я тоже могу.
+ru -> nl: Я тоже могу. -> Dat kan ik ook.
+nl -> az: Dat kan ik ook. -> Bunu da edə bilərəm.
+az -> en: Bunu da edə bilərəm. -> I can do that too.
+allows -> I can do that too.
+en -> ja: and -> と
+ja -> ko: と -> 그리고
+ko -> pt: 그리고 -> - A sério? - Sim.
+Usage: translate-cli [OPTIONS] TEXT...
+Try 'translate-cli --help' for help.
+
+Error: No such option: - 
+pt -> zh: - A sério? - Sim. -> 
+zh -> ar:  -> 
+ar -> tr:  -> 
+tr -> tk:  -> 
+tk -> ru:  -> 
+ru -> nl:  -> 
+nl -> az:  -> 
+az -> en:  -> 
+and -> 
+en -> ja: annotations -> 注釈
+ja -> ko: 注釈 -> 말뭉치 주석
+ko -> pt: 말뭉치 주석 -> Anotação
+pt -> zh: Anotação -> Java 标注
+zh -> ar: Java 标注 -> تعليق توضيحي بلغة Java
+ar -> tr: تعليق توضيحي بلغة Java -> Java Bilgi Notu
+tr -> tk: Java Bilgi Notu -> Java Annotasiýasy
+tk -> ru: Java Annotasiýasy -> Аннотация Java
+ru -> nl: Аннотация Java -> Java Abstract
+nl -> az: Java Abstract -> Yava Mücərrəd
+az -> en: Yava Mücərrəd -> Java Abstract
+annotations -> Java Abstract
+en -> ja: assembly -> 集会
+ja -> ko: 集会 -> 모으기
+ko -> pt: 모으기 -> Reunir
+pt -> zh: Reunir -> 合并
+zh -> ar: 合并 -> الخليط
+ar -> tr: الخليط -> Harmanla
+tr -> tk: Harmanla -> Blend
+tk -> ru: Blend -> Смесь
+ru -> nl: Смесь -> Mengsel
+nl -> az: Mengsel -> Qarışıq
+az -> en: Qarışıq -> Misc
+assembly -> Misc
+en -> ja: async -> ASYNC
+ja -> ko: ASYNC -> 비동기화
+ko -> pt: 비동기화 -> Des-sincronização
+pt -> zh: Des-sincronização -> 取消同步
+zh -> ar: 取消同步 -> "إلغاء المزامنة"
+ar -> tr: "إلغاء المزامنة" -> "Senkronizasyonu kaldır"
+tr -> tk: "Senkronizasyonu kaldır" -> "Unsync"
+tk -> ru: "Unsync" -> "Отменить синхронизацию"
+ru -> nl: "Отменить синхронизацию" -> "Synchronisatie annuleren"
+nl -> az: "Synchronisatie annuleren" -> "Sinxronlaşdırmanı ləğv et"
+az -> en: "Sinxronlaşdırmanı ləğv et" -> "Cancel sync"
+async -> "Cancel sync"
+en -> ja: await -> 求める
+ja -> ko: 求める -> 기다리다
+ko -> pt: 기다리다 -> esperar
+pt -> zh: esperar -> 希望
+zh -> ar: 希望 -> أمل
+ar -> tr: أمل -> Umut
+tr -> tk: Umut -> Umyt
+tk -> ru: Umyt -> Надежда
+ru -> nl: Надежда -> hoop
+nl -> az: hoop -> ümid etmək
+az -> en: ümid etmək -> hope
+await -> hope
+en -> ja: base -> 基本
+ja -> ko: 基本 -> 간단하게
+ko -> pt: 간단하게 -> Básico
+pt -> zh: Básico -> 基本
+zh -> ar: 基本 -> الأساسية
+ar -> tr: الأساسية -> Temel
+tr -> tk: Temel -> Esasy
+tk -> ru: Esasy -> Базовый
+ru -> nl: Базовый -> Algemeen
+nl -> az: Algemeen -> Göndər
+az -> en: Göndər -> General
+base -> General
+en -> ja: bool -> ブール型
+ja -> ko: ブール型 -> 부울
+ko -> pt: 부울 -> bool
+pt -> zh: bool -> bool
+zh -> ar: bool -> bool
+ar -> tr: bool -> bool
+tr -> tk: bool -> bool
+tk -> ru: bool -> bool
+ru -> nl: bool -> bool
+nl -> az: bool -> bool
+az -> en: bool -> bool
+bool -> bool
+en -> ja: break -> 中断
+ja -> ko: 中断 -> 중지됨
+ko -> pt: 중지됨 -> Parada
+pt -> zh: Parada -> 已停止
+zh -> ar: 已停止 -> أوقف
+ar -> tr: أوقف -> & Durdur
+tr -> tk: & Durdur -> & Dur
+tk -> ru: & Dur -> & Остановить
+ru -> nl: & Остановить -> & Afbreken
+nl -> az: & Afbreken -> _Dayan
+az -> en: _Dayan -> Stop
+break -> Stop
+en -> ja: by -> クリエイター
+ja -> ko: クリエイター -> 크리에이터
+ko -> pt: 크리에이터 -> Criadores
+pt -> zh: Criadores -> 创作者
+zh -> ar: 创作者 -> الخالق
+ar -> tr: الخالق -> Yaratıcı
+tr -> tk: Yaratıcı -> Işläp
+tk -> ru: Işläp -> Работа
+ru -> nl: Работа -> Werkstuk
+nl -> az: Werkstuk -> İş parçası
+az -> en: İş parçası -> Workpiece
+by -> Workpiece
+en -> ja: byte -> バイト
+ja -> ko: バイト -> 바이트
+ko -> pt: 바이트 -> byte
+pt -> zh: byte -> 字节
+zh -> ar: 字节 -> ‮بايتات
+ar -> tr: ‮بايتات -> bayt
+tr -> tk: bayt -> Baýtlar
+tk -> ru: Baýtlar -> Байт
+ru -> nl: Байт -> Byte
+nl -> az: Byte -> Bayt
+az -> en: Bayt -> Bytes
+byte -> Bytes
+en -> ja: case -> 事例
+ja -> ko: 事例 -> 사례
+ko -> pt: 사례 -> caso
+pt -> zh: caso -> 事例 shìlì
+zh -> ar: 事例 shìlì -> Case shìlì
+ar -> tr: Case shìlì -> Vaka shìlì
+tr -> tk: Vaka shìlì -> Case shìlì
+tk -> ru: Case shìlì -> Дело Шило
+ru -> nl: Дело Шило -> Shiloh case
+nl -> az: Shiloh case -> Shiloh işi
+az -> en: Shiloh işi -> Shiloh case
+case -> Shiloh case
+en -> ja: catch -> 受け止める [うけとめる]
+ja -> ko: 受け止める [うけとめる] -> []/(v1, vt) to accept/to accept
+ko -> pt: []/(v1, vt) to accept/to accept -> []/(v1, vt) aceitar/aceitar
+pt -> zh: []/(v1, vt) aceitar/aceitar -> 接受
+zh -> ar: 接受 -> المقبولة
+ar -> tr: المقبولة -> Kabul edildi
+tr -> tk: Kabul edildi -> Kabul edilen
+tk -> ru: Kabul edilen -> Принято
+ru -> nl: Принято -> Ontvangen
+nl -> az: Ontvangen -> Al
+az -> en: Al -> Receive
+catch -> Receive
+en -> ja: char -> 文字Data type
+ja -> ko: 文字Data type -> 문자Data type
+ko -> pt: 문자Data type -> carácterData type
+pt -> zh: carácterData type -> 字符Data type
+zh -> ar: 字符Data type -> CharData type
+ar -> tr: CharData type -> CharData type
+tr -> tk: CharData type -> ŞARDATA TYPY
+tk -> ru: ŞARDATA TYPY -> Тип условия
+ru -> nl: Тип условия -> Parametertype:
+nl -> az: Parametertype: -> Parametr növü:
+az -> en: Parametr növü: -> Parameter type:
+char -> Parameter type:
+en -> ja: checked -> チェックした
+ja -> ko: チェックした -> 체크됨
+ko -> pt: 체크됨 -> Verificado
+pt -> zh: Verificado -> 已选中
+zh -> ar: 已选中 -> مُنتقى:
+ar -> tr: مُنتقى: -> Seçili:
+tr -> tk: Seçili: -> _Saýlanan Senedleri Gaýd Et
+tk -> ru: _Saýlanan Senedleri Gaýd Et -> _Выбрать
+ru -> nl: _Выбрать -> KIEZEN
+nl -> az: KIEZEN -> SEÇ
+az -> en: SEÇ -> Select
+checked -> Select
+en -> ja: checksum -> チェックサム
+ja -> ko: チェックサム -> 검사용 합계(check sum)
+ko -> pt: 검사용 합계(check sum) -> Verificar soma
+pt -> zh: Verificar soma -> 验证总和
+zh -> ar: 验证总和 -> التحقق من صحة المبلغ
+ar -> tr: التحقق من صحة المبلغ -> Tutarı Doğrula
+tr -> tk: Tutarı Doğrula -> Saýlamalary barlaň
+tk -> ru: Saýlamalary barlaň -> Обязательно проверьте варианты
+ru -> nl: Обязательно проверьте варианты -> Controleer de opties
+nl -> az: Controleer de opties -> Seçimləri yoxla
+az -> en: Seçimləri yoxla -> Check options
+checksum -> Check options
+en -> ja: class -> クラス
+ja -> ko: クラス -> 클래스
+ko -> pt: 클래스 -> Classe
+pt -> zh: Classe -> 等级
+zh -> ar: 等级 -> الرتبة
+ar -> tr: الرتبة -> Kaynak Amblemi&apos; Title &apos;(track name) playlist column name and token for playlist layouts
+tr -> tk: Kaynak Amblemi&apos; Title &apos;(track name) playlist column name and token for playlist layouts -> Source Emblem' Title'(track ady) playlist sütun ady we token for playlist layouts
+tk -> ru: Source Emblem' Title'(track ady) playlist sütun ady we token for playlist layouts -> Имя столбца списка воспроизведения эмблемы источника « Название»(название дорожки) и маркер для макетов списка воспроизведения
+ru -> nl: Имя столбца списка воспроизведения эмблемы источника « Название»(название дорожки) и маркер для макетов списка воспроизведения -> Naam van de afspeellijstkolom van het naambronlogo (tracknaam) en markering voor afspeellijstlay-outs
+nl -> az: Naam van de afspeellijstkolom van het naambronlogo (tracknaam) en markering voor afspeellijstlay-outs -> Ad mənbəyi loqosunun (track name) pleylist sütununun adı və playlist planlarının işarəsi
+az -> en: Ad mənbəyi loqosunun (track name) pleylist sütununun adı və playlist planlarının işarəsi -> Name source logo (track name) playlist column name and playlist plans icon
+class -> Name source logo (track name) playlist column name and playlist plans icon
+en -> ja: const -> 定数
+ja -> ko: 定数 -> 상수
+ko -> pt: 상수 -> Constante
+pt -> zh: Constante -> 对比度
+zh -> ar: 对比度 -> التباين
+ar -> tr: التباين -> Karşıtlık
+tr -> tk: Karşıtlık -> Kontrast
+tk -> ru: Kontrast -> Контраст
+ru -> nl: Контраст -> In contrast
+nl -> az: In contrast -> Əksinə
+az -> en: Əksinə -> On the contrary
+const -> On the contrary
+en -> ja: continue -> 続ける
+ja -> ko: 続ける -> 계속
+ko -> pt: 계속 -> Continuar
+pt -> zh: Continuar -> 继续
+zh -> ar: 继续 -> إذا ماذا
+ar -> tr: إذا ماذا -> Peki ne
+tr -> tk: Peki ne -> Näme üçin
+tk -> ru: Näme üçin -> В чем причина
+ru -> nl: В чем причина -> Wat is de reden
+nl -> az: Wat is de reden -> Səbəb nədir
+az -> en: Səbəb nədir -> What's causing it
+continue -> What's causing it
+en -> ja: decimal -> デシマル
+ja -> ko: デシマル -> 소수점
+ko -> pt: 소수점 -> Sinal decimal. calculator button
+pt -> zh: Sinal decimal. calculator button -> 小数点. calculator button
+zh -> ar: 小数点. calculator button -> علامة عشرية
+ar -> tr: علامة عشرية -> Ondalık işareti. calculator button
+tr -> tk: Ondalık işareti. calculator button -> Kalkülýotaryň düýşü
+tk -> ru: Kalkülýotaryň düýşü -> Мир калькулятора
+ru -> nl: Мир калькулятора -> Rekenmachine wereld
+nl -> az: Rekenmachine wereld -> Kalkulyator dünyası
+az -> en: Kalkulyator dünyası -> Calculator world
+decimal -> Calculator world
+en -> ja: default -> default
+ja -> ko: default -> Default
+ko -> pt: Default -> Padrão
+pt -> zh: Padrão -> 模式
+zh -> ar: 模式 -> ‮الطور
+ar -> tr: ‮الطور -> Mod
+tr -> tk: Mod -> Mod
+tk -> ru: Mod -> Mod
+ru -> nl: Mod -> Mod
+nl -> az: Mod -> Mod
+az -> en: Mod -> Mode
+default -> Mode
+en -> ja: define -> Tag Type
+ja -> ko: Tag Type -> 태그 유형
+ko -> pt: 태그 유형 -> Tipo de tag
+pt -> zh: Tipo de tag -> 标签类型
+zh -> ar: 标签类型 -> نوع الملصق
+ar -> tr: نوع الملصق -> Etiket Türü
+tr -> tk: Etiket Türü -> Etiket Türü
+tk -> ru: Etiket Türü -> Тип этикетки
+ru -> nl: Тип этикетки -> Soort label
+nl -> az: Soort label -> Yarlığın növü
+az -> en: Yarlığın növü -> Label type
+define -> Label type
+en -> ja: delegate -> 委任する
+ja -> ko: 委任する -> 위임
+ko -> pt: 위임 -> Delegação
+pt -> zh: Delegação -> 协会
+zh -> ar: 协会 -> الجمعيات
+ar -> tr: الجمعيات -> Dernekler?
+tr -> tk: Dernekler? -> Şeriklikler?
+tk -> ru: Şeriklikler? -> Партнерства?
+ru -> nl: Партнерства? -> Partnerschappen?
+nl -> az: Partnerschappen? -> Tərəfdaşlıq?
+az -> en: Tərəfdaşlıq? -> Partnership?
+delegate -> Partnership?
+en -> ja: descending -> 降順
+ja -> ko: 降順 -> 내림차순
+ko -> pt: 내림차순 -> Descendente
+pt -> zh: Descendente -> RAW 解码
+zh -> ar: RAW 解码 -> خام
+ar -> tr: خام -> Raw Deşifreleme
+tr -> tk: Raw Deşifreleme -> Transkripsiýa
+tk -> ru: Transkripsiýa -> Транскрипция
+ru -> nl: Транскрипция -> Transcriptie
+nl -> az: Transcriptie -> Transkripsiya
+az -> en: Transkripsiya -> Transcription
+descending -> Transcription
+en -> ja: disable -> 無効
+ja -> ko: 無効 -> 끄기
+ko -> pt: 끄기 -> Desligado
+pt -> zh: Desligado -> 关
+zh -> ar: 关 -> إيقاف
+ar -> tr: إيقاف -> Kapalı
+tr -> tk: Kapalı -> Mümkin edigili
+tk -> ru: Mümkin edigili -> Включено
+ru -> nl: Включено -> Opge nomen
+nl -> az: Opge nomen -> Qəbul edildi
+az -> en: Qəbul edildi -> A Accepted
+disable -> A Accepted
+en -> ja: do -> が豊富。
+ja -> ko: が豊富。 -> 풍부합니다.
+ko -> pt: 풍부합니다. -> Abundante.
+pt -> zh: Abundante. -> 丰富
+zh -> ar: 丰富 -> وفير
+ar -> tr: وفير -> Bol
+tr -> tk: Bol -> Baýlyk
+tk -> ru: Baýlyk -> Цена
+ru -> nl: Цена -> Price
+nl -> az: Price -> Qiymət
+az -> en: Qiymət -> Salute
+do -> Salute
+en -> ja: double -> double
+ja -> ko: double -> "DOUBLE"
+ko -> pt: "DOUBLE" -> "duplo"
+pt -> zh: "duplo" -> 双向
+zh -> ar: 双向 -> ثنائي الإتجاه
+ar -> tr: ثنائي الإتجاه -> Tek Yönlü
+tr -> tk: Tek Yönlü -> Unit-format
+tk -> ru: Unit-format -> Акрыunit-format
+ru -> nl: Акрыunit-format -> Acresunit-format
+nl -> az: Acresunit-format -> Acresunit formatı
+az -> en: Acresunit formatı -> Acresunit format
+double -> Acresunit format
+en -> ja: else -> elseYou are about to translate the &apos;Repeat&apos; COMMAND, there are some rules on how to translate it.Please see http://edu.kde.org/kturtle/translator.php to learn how to properly translate it.
+ja -> ko: elseYou are about to translate the &apos;Repeat&apos; COMMAND, there are some rules on how to translate it.Please see http://edu.kde.org/kturtle/translator.php to learn how to properly translate it. -> elseYou are about to translate the 'Repeat' command, there are some rules on how to translate it. Please see http://edu.kde.org/kturtle/translator.php to learn how to properly translate it.
+ko -> pt: elseYou are about to translate the 'Repeat' command, there are some rules on how to translate it. Please see http://edu.kde.org/kturtle/translator.php to learn how to properly translate it. -> elseYou are about to translate the 'Repeat' command, there are some rules on how to translate it. Consulte http://edu.kde.org/kturtle/translator.php para saber como traduzi-lo corretamente.
+pt -> zh: elseYou are about to translate the 'Repeat' command, there are some rules on how to translate it. Consulte http://edu.kde.org/kturtle/translator.php para saber como traduzi-lo corretamente. -> else您即将翻译“重复”命令，关于如何翻译它有一些规则。请参阅http://edu.kde.org/kturtle/translator.php了解如何正确翻译。
+zh -> ar: else您即将翻译“重复”命令，关于如何翻译它有一些规则。请参阅http://edu.kde.org/kturtle/translator.php了解如何正确翻译。 -> وإلا فأنت على وشك ترجمة أمر "التكرار"، فهناك بعض القواعد حول كيفية ترجمته. راجع http://edu.kde.org/kturtle/translator.php لمعرفة كيفية الترجمة بشكل صحيح.
+ar -> tr: وإلا فأنت على وشك ترجمة أمر "التكرار"، فهناك بعض القواعد حول كيفية ترجمته. راجع http://edu.kde.org/kturtle/translator.php لمعرفة كيفية الترجمة بشكل صحيح. -> Aksi takdirde, 'iteration' komutunu çevirmek üzeresiniz, bunun nasıl çevrileceğine dair bazı kurallar vardır. Doğru çeviri için bkz. http://edu.kde.org/kturtle/translator.php.
+tr -> tk: Aksi takdirde, 'iteration' komutunu çevirmek üzeresiniz, bunun nasıl çevrileceğine dair bazı kurallar vardır. Doğru çeviri için bkz. http://edu.kde.org/kturtle/translator.php. -> Ýogsam, siz "iterasiýa" tabşyrygyny üýtgetmekçi bolýarsyňyz, ony üýtgetmek üçin birnäçe düzgünler bar. Dogry terjime üçin http://edu.kde.org/kturtle/translator.php saýtyna serediň.
+tk -> ru: Ýogsam, siz "iterasiýa" tabşyrygyny üýtgetmekçi bolýarsyňyz, ony üýtgetmek üçin birnäçe düzgünler bar. Dogry terjime üçin http://edu.kde.org/kturtle/translator.php saýtyna serediň. -> В противном случае вы собираетесь изменить команду «итерация», существует несколько правил ее изменения. Правильный перевод см. на сайте http://edu.kde.org/kturtle/translator.php.
+ru -> nl: В противном случае вы собираетесь изменить команду «итерация», существует несколько правил ее изменения. Правильный перевод см. на сайте http://edu.kde.org/kturtle/translator.php. -> Anders gaat u het commando "iteratie" wijzigen, er zijn verschillende regels om het te wijzigen. Voor de juiste vertaling, zie http://edu.kde.org/kturtle/translator.php.
+nl -> az: Anders gaat u het commando "iteratie" wijzigen, er zijn verschillende regels om het te wijzigen. Voor de juiste vertaling, zie http://edu.kde.org/kturtle/translator.php. -> Əks halda, "iterasiya" əmrini dəyişəcəksiniz, onu dəyişmək üçün bir neçə qayda var. Düzgün tərcümə üçün http://edu.kde.org/kturtle/translator.php saytına baxın.
+az -> en: Əks halda, "iterasiya" əmrini dəyişəcəksiniz, onu dəyişmək üçün bir neçə qayda var. Düzgün tərcümə üçün http://edu.kde.org/kturtle/translator.php saytına baxın. -> Otherwise, you'll change the "iteration" command, and there are a few rules to change it. Check http://edu.kde.org/kturtle/translator.php for the correct translation.
+else -> Otherwise, you'll change the "iteration" command, and there are a few rules to change it. Check http://edu.kde.org/kturtle/translator.php for the correct translation.
+en -> ja: elif -> elif
+ja -> ko: elif -> elif
+ko -> pt: elif -> elif
+pt -> zh: elif -> elif
+zh -> ar: elif -> أليف
+ar -> tr: أليف -> Aleve
+tr -> tk: Aleve -> Ýagyş
+tk -> ru: Ýagyş -> Дождь
+ru -> nl: Дождь -> Regen
+nl -> az: Regen -> Yağış
+az -> en: Yağış -> Rain
+elif -> Rain
+en -> ja: enable -> 有効
+ja -> ko: 有効 -> 가능
+ko -> pt: 가능 -> Activar
+pt -> zh: Activar -> 启用
+zh -> ar: 启用 -> تمكين 
+ar -> tr: تمكين  -> Etkinleştir
+tr -> tk: Etkinleştir -> %s'i janlaşdyr
+tk -> ru: %s'i janlaşdyr -> _Активировать
+ru -> nl: _Активировать -> & Activeren
+nl -> az: & Activeren -> & Aktivləşdir
+az -> en: & Aktivləşdir -> Activate
+enable -> Activate
+en -> ja: endif -> endif
+ja -> ko: endif -> endif
+ko -> pt: endif -> endif
+pt -> zh: endif -> endif
+zh -> ar: endif -> endif
+ar -> tr: endif -> endif
+tr -> tk: endif -> endif
+tk -> ru: endif -> endif
+ru -> nl: endif -> endif
+nl -> az: endif -> endif
+az -> en: endif -> endif
+endif -> endif
+en -> ja: endRegion -> endRegion
+ja -> ko: endRegion -> endRegion
+ko -> pt: endRegion -> endRegion
+pt -> zh: endRegion -> endRegion
+zh -> ar: endRegion -> endRegion
+ar -> tr: endRegion -> endRegion
+tr -> tk: endRegion -> endRegion
+tk -> ru: endRegion -> endRegion
+ru -> nl: endRegion -> endRegion
+nl -> az: endRegion -> endRegion
+az -> en: endRegion -> endRegion
+endRegion -> endRegion
+en -> ja: enum -> enum
+ja -> ko: enum -> enum
+ko -> pt: enum -> enum
+pt -> zh: enum -> 枚举 ：
+zh -> ar: 枚举 ： -> المتعددات
+ar -> tr: المتعددات -> Sayımlar
+tr -> tk: Sayımlar -> Saýla
+tk -> ru: Saýla -> Выбрать
+ru -> nl: Выбрать -> Kiezen...
+nl -> az: Kiezen... -> Seçin...
+az -> en: Seçin... -> select
+enum -> select
+en -> ja: equals -> 等しい
+ja -> ko: 等しい -> 같음
+ko -> pt: 같음 -> igual a
+pt -> zh: igual a -> 等于
+zh -> ar: 等于 -> يساوي
+ar -> tr: يساوي -> Eşit
+tr -> tk: Eşit -> Eşit
+tk -> ru: Eşit -> Равно
+ru -> nl: Равно -> Is exact gelijk aan
+nl -> az: Is exact gelijk aan -> Tam bərabərdir
+az -> en: Tam bərabərdir -> Exactly equal
+equals -> Exactly equal
+en -> ja: error -> 失態
+ja -> ko: 失態 -> 실패
+ko -> pt: 실패 -> - ENGANAS-TE!
+Usage: translate-cli [OPTIONS] TEXT...
+Try 'translate-cli --help' for help.
+
+Error: No such option: - 
+pt -> zh: - ENGANAS-TE! -> 
+zh -> ar:  -> 
+ar -> tr:  -> 
+tr -> tk:  -> 
+tk -> ru:  -> 
+ru -> nl:  -> 
+nl -> az:  -> 
+az -> en:  -> 
+error -> 
+en -> ja: event -> イベント
+ja -> ko: イベント -> 이벤트
+ko -> pt: 이벤트 -> Evento
+pt -> zh: Evento -> 事件
+zh -> ar: 事件 -> الحوادث
+ar -> tr: الحوادث -> Kazalar
+tr -> tk: Kazalar -> Betbagtçylyklar
+tk -> ru: Betbagtçylyklar -> Стихийные бедствия
+ru -> nl: Стихийные бедствия -> Catastrofe
+nl -> az: Catastrofe -> Katastrof
+az -> en: Katastrof -> Catastrophe
+event -> Catastrophe
+en -> ja: explicit -> Explicit
+ja -> ko: Explicit -> 명시적
+ko -> pt: 명시적 -> Explícito
+pt -> zh: Explícito -> 显式
+zh -> ar: 显式 -> صريح
+ar -> tr: صريح -> Ekle...
+tr -> tk: Ekle... -> Ekle
+tk -> ru: Ekle -> Добавить
+ru -> nl: Добавить -> Toevoegen
+nl -> az: Toevoegen -> Əlavə Et
+az -> en: Əlavə Et -> Add
+explicit -> Add
+en -> ja: extension -> 拡張子
+ja -> ko: 拡張子 -> 파일 확장자
+ko -> pt: 파일 확장자 -> Extensão de nome de ficheiro
+pt -> zh: Extensão de nome de ficheiro -> 文件扩展名
+zh -> ar: 文件扩展名 -> امتداد الملف
+ar -> tr: امتداد الملف -> Dosya UzantÄ±sÄ±
+tr -> tk: Dosya UzantÄ±sÄ± -> Faýl uzynlygy
+tk -> ru: Faýl uzynlygy -> Длина файла
+ru -> nl: Длина файла -> Bestandslengte
+nl -> az: Bestandslengte -> Faylın uzunluğu
+az -> en: Faylın uzunluğu -> File length
+extension -> File length
+en -> ja: extern -> extern
+ja -> ko: extern -> extern
+ko -> pt: extern -> externo
+pt -> zh: externo -> 外层
+zh -> ar: 外层 -> ‮خارجي
+ar -> tr: ‮خارجي -> Dış
+tr -> tk: Dış -> Daşary
+tk -> ru: Daşary -> Внутренний
+ru -> nl: Внутренний -> Intern
+nl -> az: Intern -> Daxili
+az -> en: Daxili -> Domestic
+extern -> Domestic
+en -> ja: false -> False
+ja -> ko: False -> 거짓
+ko -> pt: 거짓 -> Falso
+pt -> zh: Falso -> 假幣
+zh -> ar: 假幣 -> العملة المزيفة
+ar -> tr: العملة المزيفة -> Sahte Para Birimi
+tr -> tk: Sahte Para Birimi -> Ýalan pul
+tk -> ru: Ýalan pul -> Поддельные деньги
+ru -> nl: Поддельные деньги -> Namaakgeld
+nl -> az: Namaakgeld -> Saxta pul
+az -> en: Saxta pul -> Counterfeit money
+false -> Counterfeit money
+en -> ja: file -> ファイル
+ja -> ko: ファイル -> 파일
+ko -> pt: 파일 -> Ficheiro
+pt -> zh: Ficheiro -> æä»¶
+zh -> ar: æä»¶ -> ملف
+ar -> tr: ملف -> & Dosya
+tr -> tk: & Dosya -> FAÝL
+tk -> ru: FAÝL -> ФАЙЛ
+ru -> nl: ФАЙЛ -> Bestand
+nl -> az: Bestand -> Dosye
+az -> en: Dosye -> All Files
+file -> All Files
+en -> ja: finally -> 終わり だ
+ja -> ko: 終わり だ -> 끝났습니다.
+ko -> pt: 끝났습니다. -> Terminou!
+pt -> zh: Terminou! -> 结束了！
+zh -> ar: 结束了！ -> لقد انتهى الأمر!
+ar -> tr: لقد انتهى الأمر! -> Artık bitti.
+tr -> tk: Artık bitti. -> Häzir tamamlanýar.
+tk -> ru: Häzir tamamlanýar. -> Теперь она завершена.
+ru -> nl: Теперь она завершена. -> Het is nu voltooid.
+nl -> az: Het is nu voltooid. -> Artıq tamamlanıb.
+az -> en: Artıq tamamlanıb. -> Already completed.
+finally -> Already completed.
+en -> ja: fixed -> fixed
+ja -> ko: fixed -> 고정
+ko -> pt: 고정 -> Fixar
+pt -> zh: Fixar -> 吸附
+zh -> ar: 吸附 -> غِرَائِي
+ar -> tr: غِرَائِي -> Yapışkan
+tr -> tk: Yapışkan -> Sticky
+tk -> ru: Sticky -> Липкий
+ru -> nl: Липкий -> Sticky
+nl -> az: Sticky -> Yapışqan
+az -> en: Yapışqan -> Sticky
+fixed -> Sticky
+en -> ja: float -> @label:textbox
+ja -> ko: @label:textbox -> @ label: textbox
+ko -> pt: @ label: textbox -> &apos;long&apos; sem sinalData type
+pt -> zh: &apos;long&apos; sem sinalData type -> 无符号长整型Data type
+zh -> ar: 无符号长整型Data type -> @ info: tooltip column contains the value in binary format
+ar -> tr: @ info: tooltip column contains the value in binary format -> % 1 bayt@ label: textbox
+tr -> tk: % 1 bayt@ label: textbox -> % 1 bytes@ label: textbox
+tk -> ru: % 1 bytes@ label: textbox -> % 1 байт@ label: textbox
+ru -> nl: % 1 байт@ label: textbox -> bool (1 byte)Data type
+nl -> az: bool (1 byte)Data type -> bool (1 bayt)Məlumat növü
+az -> en: bool (1 bayt)Məlumat növü -> bool (1 byte)Data Type
+float -> bool (1 byte)Data Type
+en -> ja: for -> にとって
+ja -> ko: にとって -> 에 있어
+ko -> pt: 에 있어 -> Está ligado
+pt -> zh: Está ligado -> 已连接
+zh -> ar: 已连接 -> الإتصالات:
+ar -> tr: الإتصالات: -> Bağlantı beklenmedik bir biçimde kapatıldı.
+tr -> tk: Bağlantı beklenmedik bir biçimde kapatıldı. -> Bir baglanyşyk garaşylmadykça ýapyldy.
+tk -> ru: Bir baglanyşyk garaşylmadykça ýapyldy. -> Ссылка была неожиданно закрыта.
+ru -> nl: Ссылка была неожиданно закрыта. -> De link is onverwacht gesloten.
+nl -> az: De link is onverwacht gesloten. -> Link gözlənilmədən bağlandı.
+az -> en: Link gözlənilmədən bağlandı. -> Link unexpectedly closed.
+for -> Link unexpectedly closed.
+en -> ja: foreach -> Foreach文
+ja -> ko: Foreach文 -> Foreach Text
+ko -> pt: Foreach Text -> Foreach Text
+pt -> zh: Foreach Text -> Foreach文本
+zh -> ar: Foreach文本 -> Foreach Text
+ar -> tr: Foreach Text -> Foreach Metni
+tr -> tk: Foreach Metni -> Metini öňünden taýýarla
+tk -> ru: Metini öňünden taýýarla -> Подготовьте текст заранее
+ru -> nl: Подготовьте текст заранее -> Tekst van tevoren voorbereiden
+nl -> az: Tekst van tevoren voorbereiden -> Mətni əvvəlcədən hazırlayın
+az -> en: Mətni əvvəlcədən hazırlayın -> Prepare the text in advance
+foreach -> Prepare the text in advance
+en -> ja: from -> から
+ja -> ko: から -> 껍질
+ko -> pt: 껍질 -> Shell
+pt -> zh: Shell -> 荷兰皇家壳牌
+zh -> ar: 荷兰皇家壳牌 -> رويال داتش شل
+ar -> tr: رويال داتش شل -> Shell
+tr -> tk: Shell -> Shell
+tk -> ru: Shell -> Оболочка
+ru -> nl: Оболочка -> Mantel
+nl -> az: Mantel -> Palto
+az -> en: Palto -> Overcoat
+from -> Overcoat
+en -> ja: get -> ゲット
+ja -> ko: ゲット -> get
+ko -> pt: get -> obter
+pt -> zh: obter -> 受到 受到 [shou4 dao4]
+zh -> ar: 受到 受到 [shou4 dao4] -> حصل
+ar -> tr: حصل -> yakalanmak
+tr -> tk: yakalanmak -> ol ýykyldy
+tk -> ru: ol ýykyldy -> он/она/упало
+ru -> nl: он/она/упало -> hij/zij/viel
+nl -> az: hij/zij/viel -> o/o/düşdü
+az -> en: o/o/düşdü -> he/she/it fell
+get -> he/she/it fell
+en -> ja: global -> グローバル
+ja -> ko: グローバル -> 글로벌
+ko -> pt: 글로벌 -> Global
+pt -> zh: Global -> 全局
+zh -> ar: 全局 -> شامل
+ar -> tr: شامل -> Evrensel
+tr -> tk: Evrensel -> Älem - jahanda
+tk -> ru: Älem - jahanda -> Вселенная - во Вселенной
+ru -> nl: Вселенная - во Вселенной -> Het heelal is in het heelal
+nl -> az: Het heelal is in het heelal -> Kainat kainatdadır
+az -> en: Kainat kainatdadır -> The Universe is in the Universe
+global -> The Universe is in the Universe
+en -> ja: goto -> 移動
+ja -> ko: 移動 -> 이동(M)
+ko -> pt: 이동(M) -> Mover
+pt -> zh: Mover -> 移動
+zh -> ar: 移動 -> نقل
+ar -> tr: نقل -> Ulaşım
+tr -> tk: Ulaşım -> Garawul diňi
+tk -> ru: Garawul diňi -> ДОХОДЫ
+ru -> nl: ДОХОДЫ -> OPBRENGSTEN
+nl -> az: OPBRENGSTEN -> GƏLİRLƏR
+az -> en: GƏLİRLƏR -> EARNINGS
+goto -> EARNINGS
+en -> ja: group -> 一団
+ja -> ko: 一団 -> 갱
+ko -> pt: 갱 -> Gangue
+pt -> zh: Gangue -> 帮派
+zh -> ar: 帮派 -> عصابة
+ar -> tr: عصابة -> Çete
+tr -> tk: Çete -> Gang
+tk -> ru: Gang -> Банда
+ru -> nl: Банда -> Bende
+nl -> az: Bende -> Qanq
+az -> en: Qanq -> Gang
+group -> Gang
+en -> ja: hidden -> 表示
+ja -> ko: 表示 -> 보이기
+ko -> pt: 보이기 -> Apresentar
+pt -> zh: Apresentar -> 显示
+zh -> ar: 显示 -> عرض
+ar -> tr: عرض -> & Slayt
+tr -> tk: & Slayt -> & Slide
+tk -> ru: & Slide -> & Слайд
+ru -> nl: & Слайд -> Afbeelding
+nl -> az: Afbeelding -> Rəsm
+az -> en: Rəsm -> Painting
+hidden -> Painting
+en -> ja: if -> もし
+ja -> ko: もし -> 만약에
+ko -> pt: 만약에 -> em
+pt -> zh: em -> 于
+zh -> ar: 于 -> في
+ar -> tr: في -> içinde
+tr -> tk: içinde -> içinde
+tk -> ru: içinde -> в
+ru -> nl: в -> in
+nl -> az: in -> Gələnlər qutusu
+az -> en: Gələnlər qutusu -> Inbox
+if -> Inbox
+en -> ja: implicit -> 暗黙の了解
+ja -> ko: 暗黙の了解 -> 암묵적 이해
+ko -> pt: 암묵적 이해 -> Compreensão implícita
+pt -> zh: Compreensão implícita -> 隐含理解
+zh -> ar: 隐含理解 -> الفهم الضمني
+ar -> tr: الفهم الضمني -> Örtük anlayış
+tr -> tk: Örtük anlayış -> Ýagdaýyň manysyna düşünmek
+tk -> ru: Ýagdaýyň manysyna düşünmek -> Понимание того, что подразумевается под термином
+ru -> nl: Понимание того, что подразумевается под термином -> Begrijpen wat met de term wordt bedoeld
+nl -> az: Begrijpen wat met de term wordt bedoeld -> Terminin nə demək olduğunu anlayın
+az -> en: Terminin nə demək olduğunu anlayın -> Understand what the term means
+implicit -> Understand what the term means
+en -> ja: in -> in (インチ)
+ja -> ko: in (インチ) -> in (인치)
+ko -> pt: in (인치) -> pol (Polegada)
+pt -> zh: pol (Polegada) -> in (Inch)
+zh -> ar: in (Inch) -> بوصة
+ar -> tr: بوصة -> inç
+tr -> tk: inç -> unit-format
+tk -> ru: unit-format -> Акрыunit-format
+ru -> nl: Акрыunit-format -> Acresunit-format
+nl -> az: Acresunit-format -> Acresunit formatı
+az -> en: Acresunit formatı -> Acresunit format
+in -> Acresunit format
+en -> ja: init -> Init
+ja -> ko: Init -> Init
+ko -> pt: Init -> Init
+pt -> zh: Init -> Init
+zh -> ar: Init -> بدء
+ar -> tr: بدء -> Başlat
+tr -> tk: Başlat -> Başla
+tk -> ru: Başla -> Начало
+ru -> nl: Начало -> Opstarten
+nl -> az: Opstarten -> Başlanğıc
+az -> en: Başlanğıc -> Start
+init -> Start
+en -> ja: int -> int
+ja -> ko: int -> INT
+ko -> pt: INT -> Int
+pt -> zh: Int -> int
+zh -> ar: int -> int
+ar -> tr: int -> int
+tr -> tk: int -> int
+tk -> ru: int -> int
+ru -> nl: int -> int
+nl -> az: int -> bt
+az -> en: bt -> bt
+int -> bt
+en -> ja: interface -> Tag Type
+ja -> ko: Tag Type -> 태그 유형
+ko -> pt: 태그 유형 -> Tipo de tag
+pt -> zh: Tipo de tag -> 标签类型
+zh -> ar: 标签类型 -> نوع الملصق
+ar -> tr: نوع الملصق -> Etiket Türü
+tr -> tk: Etiket Türü -> Etiket Türü
+tk -> ru: Etiket Türü -> Тип этикетки
+ru -> nl: Тип этикетки -> Soort label
+nl -> az: Soort label -> Yarlığın növü
+az -> en: Yarlığın növü -> Label type
+interface -> Label type
+en -> ja: internal -> インターナル
+ja -> ko: インターナル -> 내부
+ko -> pt: 내부 -> Interno
+pt -> zh: Interno -> 內部
+zh -> ar: 內部 -> داخلي
+ar -> tr: داخلي -> iç
+tr -> tk: iç -> daşary
+tk -> ru: daşary -> внешний
+ru -> nl: внешний -> Buitenste
+nl -> az: Buitenste -> Xarici
+az -> en: Xarici -> External
+internal -> External
+en -> ja: into -> は次のように変換されます
+ja -> ko: は次のように変換されます -> (으) 로 변환됩니다.
+ko -> pt: (으) 로 변환됩니다. -> será convertido para.
+pt -> zh: será convertido para. -> 将转换为。
+zh -> ar: 将转换为。 -> سيتم تحويله إلى.
+ar -> tr: سيتم تحويله إلى. -> 'e aktarılacaktır.
+tr -> tk: 'e aktarılacaktır. -> Mysal üçin: köçürmek, köçürmek.
+tk -> ru: Mysal üçin: köçürmek, köçürmek. -> Например: move, move.
+ru -> nl: Например: move, move. -> Bijvoorbeeld: bewegen, bewegen.
+nl -> az: Bijvoorbeeld: bewegen, bewegen. -> Məsələn: hərəkət edin, hərəkət edin.
+az -> en: Məsələn: hərəkət edin, hərəkət edin. -> Example: move, move.
+into -> Example: move, move.
+en -> ja: is -> is
+ja -> ko: is -> 은 (는)
+ko -> pt: 은 (는) -> é
+pt -> zh: é -> s
+zh -> ar: s -> (ق)
+ar -> tr: (ق) -> .
+tr -> tk: . -> i
+tk -> ru: i -> i
+ru -> nl: i -> i
+nl -> az: i -> i
+az -> en: i -> i
+is -> i
+en -> ja: join -> 結ぶ
+ja -> ko: 結ぶ -> 연결하다
+ko -> pt: 연결하다 -> juntar
+pt -> zh: juntar -> 合并
+zh -> ar: 合并 -> الخليط
+ar -> tr: الخليط -> Harmanla
+tr -> tk: Harmanla -> Blend
+tk -> ru: Blend -> Смесь
+ru -> nl: Смесь -> Mengsel
+nl -> az: Mengsel -> Qarışıq
+az -> en: Qarışıq -> Misc
+join -> Misc
+en -> ja: let -> 許す [ゆるす]
+ja -> ko: 許す [ゆるす] -> 용서
+ko -> pt: 용서 -> Perdoa-nos.
+pt -> zh: Perdoa-nos. -> 原谅我们。
+zh -> ar: 原谅我们。 -> سامحنا.
+ar -> tr: سامحنا. -> Affet bizi.
+tr -> tk: Affet bizi. -> Ol bizi bagyşlar.
+tk -> ru: Ol bizi bagyşlar. -> Он простит нас.
+ru -> nl: Он простит нас. -> Hij zal ons vergeven.
+nl -> az: Hij zal ons vergeven. -> O, bizi bağışlayacaq.
+az -> en: O, bizi bağışlayacaq. -> He will forgive us.
+let -> He will forgive us.
+en -> ja: line -> 一線
+ja -> ko: 一線 -> 라인
+ko -> pt: 라인 -> Linha
+pt -> zh: Linha -> 直线
+zh -> ar: 直线 -> خط (هندسة)
+ar -> tr: خط (هندسة) -> Doğru
+tr -> tk: Doğru -> Hakykat
+tk -> ru: Hakykat -> Истина
+ru -> nl: Истина -> Waarheid
+nl -> az: Waarheid -> Həqiqət
+az -> en: Həqiqət -> Pravda
+line -> Pravda
+en -> ja: lock -> ロック
+ja -> ko: ロック -> 로크
+ko -> pt: 로크 -> Locke
+pt -> zh: Locke -> 洛克
+zh -> ar: 洛克 -> لوك
+ar -> tr: لوك -> Luke
+tr -> tk: Luke -> Luka
+tk -> ru: Luka -> Лука
+ru -> nl: Лука -> Luca
+nl -> az: Luca -> Luca
+az -> en: Luca -> Luca
+lock -> Luca
+en -> ja: long -> 長期
+ja -> ko: 長期 -> 장기 숙박
+ko -> pt: 장기 숙박 -> Longo Prazo
+pt -> zh: Longo Prazo -> 长期
+zh -> ar: 长期 -> طويل المدى
+ar -> tr: طويل المدى -> Uzun vadeli
+tr -> tk: Uzun vadeli -> Uzynlyk
+tk -> ru: Uzynlyk -> Длина
+ru -> nl: Длина -> Lengte
+nl -> az: Lengte -> Uzunluq
+az -> en: Uzunluq -> Length
+long -> Length
+en -> ja: managed -> 管理された
+ja -> ko: 管理された -> 관리됨
+ko -> pt: 관리됨 -> Gerido
+pt -> zh: Gerido -> 管理
+zh -> ar: 管理 -> ثالث عشر - الإدارة
+ar -> tr: ثالث عشر - الإدارة -> XIII. Yönetim
+tr -> tk: XIII. Yönetim -> XIII. Ýolbaşçylyk
+tk -> ru: XIII. Ýolbaşçylyk -> Тринадцатый президент
+ru -> nl: Тринадцатый президент -> Dertiende president
+nl -> az: Dertiende president -> On üçüncü Prezident
+az -> en: On üçüncü Prezident -> Thirteenth President
+managed -> Thirteenth President
+en -> ja: method -> （損失）
+ja -> ko: （損失） -> 손실
+ko -> pt: 손실 -> perda
+pt -> zh: perda -> 败
+zh -> ar: 败 -> فقدان
+ar -> tr: فقدان -> kaybetme
+tr -> tk: kaybetme -> ýitirenler
+tk -> ru: ýitirenler -> тех, кто проиграл
+ru -> nl: тех, кто проиграл -> de verliezers
+nl -> az: de verliezers -> ziyana uğrayanlar
+az -> en: ziyana uğrayanlar -> losers
+method -> losers
+en -> ja: module -> モジュール
+ja -> ko: モジュール -> 모듈
+ko -> pt: 모듈 -> Módulo
+pt -> zh: Módulo -> 模块
+zh -> ar: 模块 -> الوحدة التدريبية
+ar -> tr: الوحدة التدريبية -> Modül
+tr -> tk: Modül -> Modul
+tk -> ru: Modul -> Модуль
+ru -> nl: Модуль -> Modulus
+nl -> az: Modulus -> Modul
+az -> en: Modul -> Module
+module -> Module
+en -> ja: nameof -> nameof
+ja -> ko: nameof -> nameof
+ko -> pt: nameof -> nameof
+pt -> zh: nameof -> nameof
+zh -> ar: nameof -> nameof
+ar -> tr: nameof -> nameof
+tr -> tk: nameof -> ady
+tk -> ru: ady -> name
+ru -> nl: name -> naam
+nl -> az: naam -> AD
+az -> en: AD -> NAME
+nameof -> NAME
+en -> ja: namespace -> Tag Type
+ja -> ko: Tag Type -> 태그 유형
+ko -> pt: 태그 유형 -> Tipo de tag
+pt -> zh: Tipo de tag -> 标签类型
+zh -> ar: 标签类型 -> نوع الملصق
+ar -> tr: نوع الملصق -> Etiket Türü
+tr -> tk: Etiket Türü -> Etiket Türü
+tk -> ru: Etiket Türü -> Тип этикетки
+ru -> nl: Тип этикетки -> Soort label
+nl -> az: Soort label -> Yarlığın növü
+az -> en: Yarlığın növü -> Label type
+namespace -> Label type
+en -> ja: new -> new
+ja -> ko: new -> New
+ko -> pt: New -> Novo
+pt -> zh: Novo -> 新建
+zh -> ar: 新建 -> جديد
+ar -> tr: جديد -> % 1:% 2 yeni,% 3 görüntülendi
+tr -> tk: % 1:% 2 yeni,% 3 görüntülendi -> % 1: % 2 täze, % 3 seredildi
+tk -> ru: % 1: % 2 täze, % 3 seredildi -> % 1: % 2 новое, % 3 рассмотрено
+ru -> nl: % 1: % 2 новое, % 3 рассмотрено -> % 1: % 2 nieuw, % 3 beoordeeld
+nl -> az: % 1: % 2 nieuw, % 3 beoordeeld -> % 1: % 2 yeni, % 3 nəzərdən keçirilib
+az -> en: % 1: % 2 yeni, % 3 nəzərdən keçirilib -> % 1: % 2 new, % 3 reviewed
+new -> % 1: % 2 new, % 3 reviewed
+en -> ja: not -> くれない(not)
+ja -> ko: くれない(not) -> NOT
+ko -> pt: NOT -> Not
+pt -> zh: Not -> 非
+zh -> ar: 非 -> لا
+ar -> tr: لا -> De. 
+tr -> tk: De.  -> : ladylazydazy
+tk -> ru: : ladylazydazy -> Ну, так оно и есть.
+ru -> nl: Ну, так оно и есть. -> Dit zult gij doen.
+nl -> az: Dit zult gij doen. -> ( Əmr ) budur !
+az -> en: ( Əmr ) budur ! -> This is the Law .
+not -> This is the Law .
+en -> ja: null -> null
+ja -> ko: null -> 널
+ko -> pt: 널 -> Nulo
+pt -> zh: Nulo -> 空
+zh -> ar: 空 -> فارغ
+ar -> tr: فارغ -> Blank
+tr -> tk: Blank -> Boş
+tk -> ru: Boş -> Пусто
+ru -> nl: Пусто -> Leeg
+nl -> az: Leeg -> Boş
+az -> en: Boş -> Empty
+null -> Empty
+en -> ja: object -> オブジェクト
+ja -> ko: オブジェクト -> 오브젝트
+ko -> pt: 오브젝트 -> Objeto
+pt -> zh: Objeto -> 客體
+zh -> ar: 客體 -> الكائن
+ar -> tr: الكائن -> Nesne
+tr -> tk: Nesne -> Objekt
+tk -> ru: Objekt -> Объект
+ru -> nl: Объект -> & Objectflowcolor page title
+nl -> az: & Objectflowcolor page title -> və Obyekt axını
+az -> en: və Obyekt axını -> and Object Flow
+object -> and Object Flow
+en -> ja: on -> on
+ja -> ko: on -> On
+ko -> pt: On -> Ligado
+pt -> zh: Ligado -> 在线
+zh -> ar: 在线 -> متصل عبر الانترنت
+ar -> tr: متصل عبر الانترنت -> Çevrimiçi
+tr -> tk: Çevrimiçi -> Onlaýn
+tk -> ru: Onlaýn -> Онлайн
+ru -> nl: Онлайн -> Online
+nl -> az: Online -> doqquz
+az -> en: doqquz -> nine
+on -> nine
+en -> ja: operator -> オペレーター
+ja -> ko: オペレーター -> 오퍼레이터
+ko -> pt: 오퍼레이터 -> Operador
+pt -> zh: Operador -> 操作员
+zh -> ar: 操作员 -> Ø§ÙÙØ¯ÙØ±
+ar -> tr: Ø§ÙÙØ¯ÙØ± -> Operatör
+tr -> tk: Operatör -> Operator
+tk -> ru: Operator -> Оператор
+ru -> nl: Оператор -> Instructie
+nl -> az: Instructie -> Təlimat
+az -> en: Təlimat -> Guidance
+operator -> Guidance
+en -> ja: or -> または
+ja -> ko: または -> 또는
+ko -> pt: 또는 -> Ou
+pt -> zh: Ou -> 或 (or)
+zh -> ar: 或 (or) -> أو (أو)
+ar -> tr: أو (أو) -> veya (veya)
+tr -> tk: veya (veya) -> emma (Ýok)
+tk -> ru: emma (Ýok) -> но (не)
+ru -> nl: но (не) -> maar (niet)
+nl -> az: maar (niet) -> lakin (yox)
+az -> en: lakin (yox) -> but (not)
+or -> but (not)
+en -> ja: orderby -> 並べ替え
+ja -> ko: 並べ替え -> 분류하다
+ko -> pt: 분류하다 -> classificar
+pt -> zh: classificar -> 整理
+zh -> ar: 整理 -> رزم
+ar -> tr: رزم -> Collate
+tr -> tk: Collate -> Collate
+tk -> ru: Collate -> Сопоставить
+ru -> nl: Сопоставить -> Match
+nl -> az: Match -> Uyğun
+az -> en: Uyğun -> Compliant
+orderby -> Compliant
+en -> ja: out -> 出力
+ja -> ko: 出力 -> 출력
+ko -> pt: 출력 -> Resultado
+pt -> zh: Resultado -> è¾åº
+zh -> ar: è¾åº -> مخرجات
+ar -> tr: مخرجات -> & Çıktı
+tr -> tk: & Çıktı -> Çykyş
+tk -> ru: Çykyş -> Презентация
+ru -> nl: Презентация -> Presentation
+nl -> az: Presentation -> Təqdimat
+az -> en: Təqdimat -> Presentation
+out -> Presentation
+en -> ja: override -> 上書き
+ja -> ko: 上書き -> 겹쳐 쓰기
+ko -> pt: 겹쳐 쓰기 -> Sobrepor
+pt -> zh: Sobrepor -> è¦ç
+zh -> ar: è¦ç -> ÙØªØ§Ø¨Ø© Ø¹ÙÙ
+ar -> tr: ÙØªØ§Ø¨Ø© Ø¹ÙÙ -> Ãzerine Yaz
+tr -> tk: Ãzerine Yaz -> Üst-üste ýaz
+tk -> ru: Üst-üste ýaz -> Перезаписать
+ru -> nl: Перезаписать -> Gegevens negeren
+nl -> az: Gegevens negeren -> Məlumatlara əhəmiyyət verməyin
+az -> en: Məlumatlara əhəmiyyət verməyin -> Ignore data
+override -> Ignore data
+en -> ja: param -> Param
+ja -> ko: Param -> Param
+ko -> pt: Param -> Param
+pt -> zh: Param -> Param
+zh -> ar: Param -> Param
+ar -> tr: Param -> Param
+tr -> tk: Param -> Param
+tk -> ru: Param -> Param
+ru -> nl: Param -> Param
+nl -> az: Param -> Param
+az -> en: Param -> Param
+param -> Param
+en -> ja: params -> パラメータ
+ja -> ko: パラメータ -> 매개변수
+ko -> pt: 매개변수 -> Parâmetro
+pt -> zh: Parâmetro -> 参数
+zh -> ar: 参数 -> البارامترات
+ar -> tr: البارامترات -> % 1... parametreler,...% 2)
+tr -> tk: % 1... parametreler,...% 2) -> % 1... parametrler,...% 2)
+tk -> ru: % 1... parametrler,...% 2) -> % 1... параметры,...% 2)
+ru -> nl: % 1... параметры,...% 2) -> %1... parameters,... %2)
+nl -> az: %1... parameters,... %2) -> %1... parametrləri,... %2)
+az -> en: %1... parametrləri,... %2) -> %1… settings, … %2)
+params -> %1… settings, … %2)
+en -> ja: partial -> 一部払い戻し
+ja -> ko: 一部払い戻し -> 부분 환불
+ko -> pt: 부분 환불 -> Reembolso parcial
+pt -> zh: Reembolso parcial -> 部分退款
+zh -> ar: 部分退款 -> رد جزئي للمبلغ المدفوع
+ar -> tr: رد جزئي للمبلغ المدفوع -> Kısmi para iadesi
+tr -> tk: Kısmi para iadesi -> Öňki töleg
+tk -> ru: Öňki töleg -> Предоплата
+ru -> nl: Предоплата -> Vooruitbetalingen
+nl -> az: Vooruitbetalingen -> İlkin ödənişlər
+az -> en: İlkin ödənişlər -> Prepayments
+partial -> Prepayments
+en -> ja: property -> 属性
+ja -> ko: 属性 -> 속성
+ko -> pt: 속성 -> Atributos
+pt -> zh: Atributos -> 属性
+zh -> ar: 属性 -> ‮خاصية
+ar -> tr: ‮خاصية -> Özellik
+tr -> tk: Özellik -> Häsiýet
+tk -> ru: Häsiýet -> Качество
+ru -> nl: Качество -> Kwaliteit
+nl -> az: Kwaliteit -> Keyfiyyət
+az -> en: Keyfiyyət -> Quality
+property -> Quality
+en -> ja: protected -> 保護
+ja -> ko: 保護 -> 보호
+ko -> pt: 보호 -> cuidado
+pt -> zh: cuidado -> 关照
+zh -> ar: 关照 -> انتباه
+ar -> tr: انتباه -> Dikkat
+tr -> tk: Dikkat -> Ägä boluň
+tk -> ru: Ägä boluň -> Будьте осторожны с желаниями
+ru -> nl: Будьте осторожны с желаниями -> Wees voorzichtig met wat je wenst
+nl -> az: Wees voorzichtig met wat je wenst -> İstədiyiniz kimi diqqətli olun
+az -> en: İstədiyiniz kimi diqqətli olun -> Be as attentive as you like
+protected -> Be as attentive as you like
+en -> ja: public -> 公開済み
+ja -> ko: 公開済み -> 게시됨
+ko -> pt: 게시됨 -> Publicado
+pt -> zh: Publicado -> 已发布
+zh -> ar: 已发布 -> تم النشر
+ar -> tr: تم النشر -> Yayınlandı
+tr -> tk: Yayınlandı -> Neşir
+tk -> ru: Neşir -> Опубликовать
+ru -> nl: Опубликовать -> Nieuwe zaken delen
+nl -> az: Nieuwe zaken delen -> Yeni biznesi paylaşmaq
+az -> en: Yeni biznesi paylaşmaq -> Sharing new business
+public -> Sharing new business
+en -> ja: r -> r
+ja -> ko: r -> R
+ko -> pt: R -> R
+pt -> zh: R -> R
+zh -> ar: R -> صاد
+ar -> tr: صاد -> R
+tr -> tk: R -> R
+tk -> ru: R -> OR
+ru -> nl: OR -> OF
+nl -> az: OF -> VƏ YA
+az -> en: VƏ YA -> OR
+r -> OR
+en -> ja: readonly -> 読み取り専用
+ja -> ko: 読み取り専用 -> 읽기 전용
+ko -> pt: 읽기 전용 -> Apenas Leitura
+pt -> zh: Apenas Leitura -> 唯獨
+zh -> ar: 唯獨 -> فقط
+ar -> tr: فقط -> Sadece
+tr -> tk: Sadece -> Diňe
+tk -> ru: Diňe -> Только
+ru -> nl: Только -> Enkel
+nl -> az: Enkel -> Tək
+az -> en: Tək -> Single
+readonly -> Single
+en -> ja: record -> 書き留める
+ja -> ko: 書き留める -> 적기
+ko -> pt: 적기 -> Oportuno
+pt -> zh: Oportuno -> 及时
+zh -> ar: 及时 -> في الوقت المناسب
+ar -> tr: في الوقت المناسب -> Doğru zamanda
+tr -> tk: Doğru zamanda -> Wagtyň geçmegi bilen
+tk -> ru: Wagtyň geçmegi bilen -> С течением времени
+ru -> nl: С течением времени -> Na verloop van tijd
+nl -> az: Na verloop van tijd -> Zamanla
+az -> en: Zamanla -> Over time
+record -> Over time
+en -> ja: ref -> 参照
+ja -> ko: 参照 -> 탐색...
+ko -> pt: 탐색... -> Explorar...
+pt -> zh: Explorar... -> 瀏覽...
+zh -> ar: 瀏覽... -> ‮تصفح…
+ar -> tr: ‮تصفح… -> Araştır...
+tr -> tk: Araştır... -> Bu barada oýlanyp görüň...
+tk -> ru: Bu barada oýlanyp görüň... -> Подумайте об этом...
+ru -> nl: Подумайте об этом... -> Denk er eens over na...
+nl -> az: Denk er eens over na... -> Bu barədə düşünün...
+az -> en: Bu barədə düşünün... -> Think about it…
+ref -> Think about it…
+en -> ja: reference -> <g id="1">参照</g>
+ja -> ko: <g id="1">参照</g> -> <g id="1">참조</g>
+ko -> pt: <g id="1">참조</g> -> <g id="1">Referência</g>
+pt -> zh: <g id="1">Referência</g> -> <g id="1">参考</g>
+zh -> ar: <g id="1">参考</g> -> <g id="1">المرجع</g>
+ar -> tr: <g id="1">المرجع</g> -> <g id="1">Referans</g>
+tr -> tk: <g id="1">Referans</g> -> <g id="1">Referans</g>
+tk -> ru: <g id="1">Referans</g> -> <g id="1">Ссылка</g>
+ru -> nl: <g id="1">Ссылка</g> -> <g id="1">Referentie</g>
+nl -> az: <g id="1">Referentie</g> -> <g id="1">İstinad</g>
+az -> en: <g id="1">İstinad</g> -> <g id="1">Reference</g>
+reference -> <g id="1">Reference</g>
+en -> ja: remove -> 削除
+ja -> ko: 削除 -> 제거
+ko -> pt: 제거 -> Remover
+pt -> zh: Remover -> 移除(R)
+zh -> ar: 移除(R) -> ‮احذف
+ar -> tr: ‮احذف -> Delete
+tr -> tk: Delete -> Ewez Et
+tk -> ru: Ewez Et -> Заменить
+ru -> nl: Заменить -> Vervangen
+nl -> az: Vervangen -> Dağıdım
+az -> en: Dağıdım -> Places
+remove -> Places
+en -> ja: required -> 必須
+ja -> ko: 必須 -> 필수
+ko -> pt: 필수 -> Obrigatório
+pt -> zh: Obrigatório -> 托管
+zh -> ar: 托管 -> إلزامي
+ar -> tr: إلزامي -> Zorunlu
+tr -> tk: Zorunlu -> Mejburlyk
+tk -> ru: Mejburlyk -> Обязательный
+ru -> nl: Обязательный -> Verplicht
+nl -> az: Verplicht -> Məcburi
+az -> en: Məcburi -> Mandatory
+required -> Mandatory
+en -> ja: restore -> 復元
+ja -> ko: 復元 -> 복구(R)
+ko -> pt: 복구(R) -> Restaurar
+pt -> zh: Restaurar -> 還原
+zh -> ar: 還原 -> تراجع
+ar -> tr: تراجع -> & Geri Al
+tr -> tk: & Geri Al -> Izine Al
+tk -> ru: Izine Al -> _Отменить
+ru -> nl: _Отменить -> Annuleren
+nl -> az: Annuleren -> Ləğv Et
+az -> en: Ləğv Et -> Cancel
+restore -> Cancel
+en -> ja: return -> 返品
+ja -> ko: 返品 -> 반품
+ko -> pt: 반품 -> Devoluções
+pt -> zh: Devoluções -> 退货
+zh -> ar: 退货 -> رجاء إرجاعها
+ar -> tr: رجاء إرجاعها -> Lütfen iade edin
+tr -> tk: Lütfen iade edin -> Lütfen, ony yzyna beriň
+tk -> ru: Lütfen, ony yzyna beriň -> Пожалуйста, верните его
+ru -> nl: Пожалуйста, верните его -> Stuur het terug
+nl -> az: Stuur het terug -> Geri göndərin
+az -> en: Geri göndərin -> Send back
+return -> Send back
+en -> ja: sbyte -> sbyte
+ja -> ko: sbyte -> sbyte
+ko -> pt: sbyte -> sbyte
+pt -> zh: sbyte -> sbyte
+zh -> ar: sbyte -> sbyte
+ar -> tr: sbyte -> sbyte
+tr -> tk: sbyte -> sbyte
+tk -> ru: sbyte -> sbyte
+ru -> nl: sbyte -> sbyte
+nl -> az: sbyte -> sbyte
+az -> en: sbyte -> sbyte
+sbyte -> sbyte
+en -> ja: scoped -> スコープ
+ja -> ko: スコープ -> 스코프
+ko -> pt: 스코프 -> Abrangência
+pt -> zh: Abrangência -> 范围
+zh -> ar: 范围 -> النطاق
+ar -> tr: النطاق -> & Alan girişleri
+tr -> tk: & Alan girişleri -> & Meýdan entrikalary
+tk -> ru: & Meýdan entrikalary -> & Записи полей
+ru -> nl: & Записи полей -> & Veldrecords
+nl -> az: & Veldrecords -> & Sahə qeydləri
+az -> en: & Sahə qeydləri -> & Field Notes
+scoped -> & Field Notes
+en -> ja: select -> の別
+ja -> ko: の別 -> 작성자
+ko -> pt: 작성자 -> Autor
+pt -> zh: Autor -> 作者
+zh -> ar: 作者 -> جهة الإصدار
+ar -> tr: جهة الإصدار -> Veren Makam
+tr -> tk: Veren Makam -> Çykyş ygtyýary
+tk -> ru: Çykyş ygtyýary -> Право на отказ
+ru -> nl: Право на отказ -> Herroepingsrecht
+nl -> az: Herroepingsrecht -> Geri çəkilmə hüququ
+az -> en: Geri çəkilmə hüququ -> Right of withdrawal
+select -> Right of withdrawal
+en -> ja: set -> 設定されている
+ja -> ko: 設定されている -> 설정됨
+ko -> pt: 설정됨 -> Configurado
+pt -> zh: Configurado -> 已配置
+zh -> ar: 已配置 -> تم التكوين
+ar -> tr: تم التكوين -> Yapılandırıldı
+tr -> tk: Yapılandırıldı -> Konfigurasiýa
+tk -> ru: Konfigurasiýa -> Конфигурация
+ru -> nl: Конфигурация -> Configuratie
+nl -> az: Configuratie -> Quraşdırma
+az -> en: Quraşdırma -> Installation
+set -> Installation
+en -> ja: short -> 膠も無い [にべもない]
+ja -> ko: 膠も無い [にべもない] -> 퉁명스러운
+ko -> pt: 퉁명스러운 -> brusco
+pt -> zh: brusco -> 突然
+zh -> ar: 突然 -> فجأة
+ar -> tr: فجأة -> Aniden
+tr -> tk: Aniden -> Birdenkä
+tk -> ru: Birdenkä -> Внезапно
+ru -> nl: Внезапно -> Plotseling
+nl -> az: Plotseling -> Birdən
+az -> en: Birdən -> Suddenly
+short -> Suddenly
+en -> ja: sizeof -> sizeof
+ja -> ko: sizeof -> sizeof
+ko -> pt: sizeof -> sizeof
+pt -> zh: sizeof -> sizeof
+zh -> ar: sizeof -> الحجم
+ar -> tr: الحجم -> Hacim
+tr -> tk: Hacim -> Mykdar
+tk -> ru: Mykdar -> Значение
+ru -> nl: Значение -> Waarde
+nl -> az: Waarde -> Qiymət
+az -> en: Qiymət -> Salute
+sizeof -> Salute
+en -> ja: stackalloc -> stackalloc
+ja -> ko: stackalloc -> stackalloc
+ko -> pt: stackalloc -> stackalloc
+pt -> zh: stackalloc -> stackalloc
+zh -> ar: stackalloc -> stackalloc
+ar -> tr: stackalloc -> stackalloc
+tr -> tk: stackalloc -> stackalloc
+tk -> ru: stackalloc -> stackalloc
+ru -> nl: stackalloc -> stackalloc
+nl -> az: stackalloc -> stekalloc
+az -> en: stekalloc -> stecalloc
+stackalloc -> stecalloc
+en -> ja: static -> static
+ja -> ko: static -> 정적
+ko -> pt: 정적 -> Estático
+pt -> zh: Estático -> 静态
+zh -> ar: 静态 -> سكوني
+ar -> tr: سكوني -> Durağan
+tr -> tk: Durağan -> Stansiýa
+tk -> ru: Stansiýa -> Станция
+ru -> nl: Станция -> station
+nl -> az: station -> stansiya
+az -> en: stansiya -> station
+static -> station
+en -> ja: string -> 文字列
+ja -> ko: 文字列 -> 문자열
+ko -> pt: 문자열 -> Cadeia de Caracteres
+pt -> zh: Cadeia de Caracteres -> 图案
+zh -> ar: 图案 -> التشكيلة
+ar -> tr: التشكيلة -> < desen >
+tr -> tk: < desen > -> < nusga >
+tk -> ru: < nusga > -> Другими словами, модель >
+ru -> nl: Другими словами, модель > -> Met andere woorden, het model >
+nl -> az: Met andere woorden, het model > -> Başqa sözlə, model >
+az -> en: Başqa sözlə, model > -> In other words, model >
+string -> In other words, model >
+en -> ja: struct -> @title:column short for Character
+ja -> ko: @title:column short for Character -> @ title: column short for Character
+ko -> pt: @ title: column short for Character -> estruturaData type
+pt -> zh: estruturaData type -> 结构体Data type
+zh -> ar: 结构体Data type -> @ title: column short for Character
+ar -> tr: @ title: column short for Character -> @ title: column short for Character
+tr -> tk: @ title: column short for Character -> @ titul: karakter üçin gysga sütun
+tk -> ru: @ titul: karakter üçin gysga sütun -> @ title: a short column for the character
+ru -> nl: @ title: a short column for the character -> @ title: a short column for the character
+nl -> az: @ title: a short column for the character -> @ başlıq: simvol üçün qısa sütun
+az -> en: @ başlıq: simvol üçün qısa sütun -> @ title: short column for character
+struct -> @ title: short column for character
+en -> ja: switch -> 切り替え
+ja -> ko: 切り替え -> 전환
+ko -> pt: 전환 -> conversão
+pt -> zh: conversão -> 回頭
+zh -> ar: 回頭 -> العودة
+ar -> tr: العودة -> İADE
+tr -> tk: İADE -> Geri
+tk -> ru: Geri -> Назад
+ru -> nl: Назад -> Terug
+nl -> az: Terug -> Geri
+az -> en: Geri -> Back
+switch -> Back
+en -> ja: this -> この
+ja -> ko: この -> 물건을 셀때 아홉의 준말
+ko -> pt: 물건을 셀때 아홉의 준말 -> A abreviação de nove ao contar coisas
+pt -> zh: A abreviação de nove ao contar coisas -> 数物时九的缩写
+zh -> ar: 数物时九的缩写 -> اختصار للوقت العددي التاسع
+ar -> tr: اختصار للوقت العددي التاسع -> Dokuzuncu sayısal zamanın kısaltması
+tr -> tk: Dokuzuncu sayısal zamanın kısaltması -> Dokuzynjy sanly wagtyň gysgaça manysy
+tk -> ru: Dokuzynjy sanly wagtyň gysgaça manysy -> Итоги девятого цифрового времени
+ru -> nl: Итоги девятого цифрового времени -> De resultaten van de negende digitale tijd
+nl -> az: De resultaten van de negende digitale tijd -> Doqquzuncu rəqəmsal dövrün nəticələri
+az -> en: Doqquzuncu rəqəmsal dövrün nəticələri -> The Consequences of the Ninth Digital Age
+this -> The Consequences of the Ninth Digital Age
+en -> ja: throw -> 投げる
+ja -> ko: 投げる -> 던지다
+ko -> pt: 던지다 -> atirar
+pt -> zh: atirar -> 扔
+zh -> ar: 扔 -> رمى
+ar -> tr: رمى -> atmak
+tr -> tk: atmak -> taşla
+tk -> ru: taşla -> отменить
+ru -> nl: отменить -> cancel
+nl -> az: cancel -> ləğv etmək
+az -> en: ləğv etmək -> cancel
+throw -> cancel
+en -> ja: true -> true
+ja -> ko: true -> true
+ko -> pt: true -> true
+pt -> zh: true -> TRUE ()
+zh -> ar: TRUE () -> TRUE ()
+ar -> tr: TRUE () -> TRUE ()
+tr -> tk: TRUE () -> Hakykat ()
+tk -> ru: Hakykat () -> Истина ()
+ru -> nl: Истина () -> Waarheid
+nl -> az: Waarheid -> Həqiqət
+az -> en: Həqiqət -> Pravda
+true -> Pravda
+en -> ja: try -> 企て
+ja -> ko: 企て -> 시도
+ko -> pt: 시도 -> tentativa
+pt -> zh: tentativa -> 企图
+zh -> ar: 企图 -> محاولة ارتكاب الجريمة
+ar -> tr: محاولة ارتكاب الجريمة -> Suça Teşebbüs
+tr -> tk: Suça Teşebbüs -> Jenaýatçylyk jenaýatçy
+tk -> ru: Jenaýatçylyk jenaýatçy -> Жертва преступления
+ru -> nl: Жертва преступления -> Slachtoffer van een misdrijf
+nl -> az: Slachtoffer van een misdrijf -> Cinayətin qurbanı
+az -> en: Cinayətin qurbanı -> Victim of crime
+try -> Victim of crime
+en -> ja: type -> 種別
+ja -> ko: 種別 -> 유형
+ko -> pt: 유형 -> Tipo
+pt -> zh: Tipo -> 類型
+zh -> ar: 類型 -> ‮النوع
+ar -> tr: ‮النوع -> Tür
+tr -> tk: Tür -> Hil
+tk -> ru: Hil -> Тип
+ru -> nl: Тип -> Type
+nl -> az: Type -> Növ
+az -> en: Növ -> Teletype
+type -> Teletype
+en -> ja: typeof -> typeof
+ja -> ko: typeof -> typeof
+ko -> pt: typeof -> typeof
+pt -> zh: typeof -> typeof
+zh -> ar: typeof -> typeof
+ar -> tr: typeof -> typeof
+tr -> tk: typeof -> typeof
+tk -> ru: typeof -> typeof
+ru -> nl: typeof -> typeof
+nl -> az: typeof -> növ
+az -> en: növ -> kind
+typeof -> kind
+en -> ja: typevar -> typevar
+ja -> ko: typevar -> typevar
+ko -> pt: typevar -> typevar
+pt -> zh: typevar -> typevar
+zh -> ar: typevar -> تايبفار
+ar -> tr: تايبفار -> Taipfar
+tr -> tk: Taipfar -> Taipfar
+tk -> ru: Taipfar -> Taipfar
+ru -> nl: Taipfar -> Taipfar
+nl -> az: Taipfar -> Taypfar
+az -> en: Taypfar -> Taipei
+typevar -> Taipei
+en -> ja: uint -> uint
+ja -> ko: uint -> uint
+ko -> pt: uint -> uint
+pt -> zh: uint -> uint
+zh -> ar: uint -> uint
+ar -> tr: uint -> uint
+tr -> tk: uint -> unit-format
+tk -> ru: unit-format -> Акрыunit-format
+ru -> nl: Акрыunit-format -> Acresunit-format
+nl -> az: Acresunit-format -> Acresunit formatı
+az -> en: Acresunit formatı -> Acresunit format
+uint -> Acresunit format
+en -> ja: ulong -> ulong
+ja -> ko: ulong -> 울롱
+ko -> pt: 울롱 -> Wulong
+pt -> zh: Wulong -> 武龙
+zh -> ar: 武龙 -> Wulong
+ar -> tr: Wulong -> Wulong
+tr -> tk: Wulong -> Wulong
+tk -> ru: Wulong -> Улун
+ru -> nl: Улун -> Oolongthee
+nl -> az: Oolongthee -> Oronq çayı
+az -> en: Oronq çayı -> Orong River
+ulong -> Orong River
+en -> ja: unchecked -> チェックしなかった
+ja -> ko: チェックしなかった -> 확인하지 않음
+ko -> pt: 확인하지 않음 -> Não confirmado
+pt -> zh: Não confirmado -> 未确认
+zh -> ar: 未确认 -> غير مؤكدغير مؤكّد
+ar -> tr: غير مؤكدغير مؤكّد -> Onaysız
+tr -> tk: Onaysız -> Razylaşmady
+tk -> ru: Razylaşmady -> Отклонено
+ru -> nl: Отклонено -> Afwijzen
+nl -> az: Afwijzen -> İmtina et
+az -> en: İmtina et -> Reject
+unchecked -> Reject
+en -> ja: undef -> 未定義@title:column short for Hexadecimal
+ja -> ko: 未定義@title:column short for Hexadecimal -> 미정. @ title: column short for Hexadecimal
+ko -> pt: 미정. @ title: column short for Hexadecimal -> indef. @ title: column short for Hexadecimal
+pt -> zh: indef. @ title: column short for Hexadecimal -> 未定义@ title: column short for Hexadecimal
+zh -> ar: 未定义@ title: column short for Hexadecimal -> غير معرف@ title: column short for Hexadecimal
+ar -> tr: غير معرف@ title: column short for Hexadecimal -> @ title: column short for Hexadecimal
+tr -> tk: @ title: column short for Hexadecimal -> @ titul: Hexadecimal üçin gysga sütun
+tk -> ru: @ titul: Hexadecimal üçin gysga sütun -> @ title: Короткий столбец для шестнадцатеричного числа
+ru -> nl: @ title: Короткий столбец для шестнадцатеричного числа -> @ title: Short column for hexadecimal number
+nl -> az: @ title: Short column for hexadecimal number -> @ başlıq: Hexadecimal nömrə üçün qısa sütun
+az -> en: @ başlıq: Hexadecimal nömrə üçün qısa sütun -> @ title: Short column for hexadecimal number
+undef -> @ title: Short column for hexadecimal number
+en -> ja: unmanaged -> 未管理
+ja -> ko: 未管理 -> 관리되지 않음
+ko -> pt: 관리되지 않음 -> Não gerido
+pt -> zh: Não gerido -> 非托管
+zh -> ar: 非托管 -> غير مُدار
+ar -> tr: غير مُدار -> Yönetilmeyen
+tr -> tk: Yönetilmeyen -> Ýolbaşçylyk etmeýän
+tk -> ru: Ýolbaşçylyk etmeýän -> Тот, кто не ведет
+ru -> nl: Тот, кто не ведет -> Iemand die niet leidt
+nl -> az: Iemand die niet leidt -> Rəhbərlik etməyən şəxs
+az -> en: Rəhbərlik etməyən şəxs -> Unmanaged person
+unmanaged -> Unmanaged person
+en -> ja: unsafe -> 危険
+ja -> ko: 危険 -> 치명적
+ko -> pt: 치명적 -> Crítico
+pt -> zh: Crítico -> 关键
+zh -> ar: 关键 -> حرج
+ar -> tr: حرج -> Kritik
+tr -> tk: Kritik -> Kritik
+tk -> ru: Kritik -> Критический
+ru -> nl: Критический -> Kritisch
+nl -> az: Kritisch -> Əhəmiyyətli
+az -> en: Əhəmiyyətli -> Important
+unsafe -> Important
+en -> ja: ushort -> USHORT
+ja -> ko: USHORT -> USHORT
+ko -> pt: USHORT -> Ushort
+pt -> zh: Ushort -> Ushort
+zh -> ar: Ushort -> Ushort
+ar -> tr: Ushort -> Ushort
+tr -> tk: Ushort -> Uşort
+tk -> ru: Uşort -> Версия
+ru -> nl: Версия -> Revisie
+nl -> az: Revisie -> Reviziya:
+az -> en: Reviziya: -> End Revision:
+ushort -> End Revision:
+en -> ja: using -> Using
+ja -> ko: Using -> 사용
+ko -> pt: 사용 -> Activar
+pt -> zh: Activar -> 启用
+zh -> ar: 启用 -> تمكين 
+ar -> tr: تمكين  -> Etkinleştir
+tr -> tk: Etkinleştir -> %s'i janlaşdyr
+tk -> ru: %s'i janlaşdyr -> _Активировать
+ru -> nl: _Активировать -> & Activeren
+nl -> az: & Activeren -> & Aktivləşdir
+az -> en: & Aktivləşdir -> Activate
+using -> Activate
+en -> ja: var -> var
+ja -> ko: var -> var
+ko -> pt: var -> var
+pt -> zh: var -> 方差( Var)
+zh -> ar: 方差( Var) -> Var
+^[[C^[[Car -> tr: Var -> Var
+tr -> tk: Var -> Hawa
+tk -> ru: Hawa -> Да
+ru -> nl: Да -> Да
+nl -> az: Да -> Да
+az -> en: Да -> Да
+var -> Да
+en -> ja: virtual -> バーチャル
+ja -> ko: バーチャル -> 가상
+ko -> pt: 가상 -> Virtual
+pt -> zh: Virtual -> 虚拟
+zh -> ar: 虚拟 -> افتراضي
+ar -> tr: افتراضي -> & Varsayılan
+tr -> tk: & Varsayılan -> _Öňki
+tk -> ru: _Öňki -> _Предыдущее
+ru -> nl: _Предыдущее -> Vorige
+nl -> az: Vorige -> Əvvəlki
+az -> en: Əvvəlki -> Previous
+virtual -> Previous
+en -> ja: void -> 排尿
+ja -> ko: 排尿 -> 배뇨
+ko -> pt: 배뇨 -> Micção
+pt -> zh: Micção -> 排尿
+zh -> ar: 排尿 -> باطل
+ar -> tr: باطل -> Geçersiz
+tr -> tk: Geçersiz -> maýyp
+tk -> ru: maýyp -> недопустима
+ru -> nl: недопустима -> onaanvaardbaar
+nl -> az: onaanvaardbaar -> qeyri-məqbul
+az -> en: qeyri-məqbul -> nontraditional
+void -> nontraditional
+en -> ja: volatile -> VOLATILE
+ja -> ko: VOLATILE -> 휘발성
+ko -> pt: 휘발성 -> Volátil
+pt -> zh: Volátil -> 揮發性
+zh -> ar: 揮發性 -> متطاير
+ar -> tr: متطاير -> Değişken
+tr -> tk: Değişken -> Degerli
+tk -> ru: Degerli -> Значение
+ru -> nl: Значение -> Waarde
+nl -> az: Waarde -> Qiymət
+az -> en: Qiymət -> Salute
+volatile -> Salute
+en -> ja: warning -> 警告
+ja -> ko: 警告 -> 경고
+ko -> pt: 경고 -> - Devia ter feito alongamentos.
+Usage: translate-cli [OPTIONS] TEXT...
+Try 'translate-cli --help' for help.
+
+Error: No such option: - 
+pt -> zh: - Devia ter feito alongamentos. -> 
+zh -> ar:  -> 
+ar -> tr:  -> 
+tr -> tk:  -> 
+tk -> ru:  -> 
+ru -> nl:  -> 
+nl -> az:  -> 
+az -> en:  -> 
+warning -> 
+en -> ja: warnings -> 警告
+ja -> ko: 警告 -> 경고
+ko -> pt: 경고 -> - Devia ter feito alongamentos.
+Usage: translate-cli [OPTIONS] TEXT...
+Try 'translate-cli --help' for help.
+
+Error: No such option: - 
+pt -> zh: - Devia ter feito alongamentos. -> 
+zh -> ar:  -> 
+ar -> tr:  -> 
+tr -> tk:  -> 
+tk -> ru:  -> 
+ru -> nl:  -> 
+nl -> az:  -> 
+az -> en:  -> 
+warnings -> 
+en -> ja: when -> いつ
+ja -> ko: いつ -> 언제,
+ko -> pt: 언제, -> Como e quando?
+pt -> zh: Como e quando? -> 如何以及何时？
+zh -> ar: 如何以及何时？ -> كيف ومتى ؟
+ar -> tr: كيف ومتى ؟ -> Nasıl ve ne zaman?
+tr -> tk: Nasıl ve ne zaman? -> Näme üçin we nädip?
+tk -> ru: Näme üçin we nädip? -> Как и почему?
+ru -> nl: Как и почему? -> Hoe en waarom?
+nl -> az: Hoe en waarom? -> Necə və niyə?
+az -> en: Necə və niyə? -> How and why?
+when -> How and why?
+en -> ja: where -> で表され、ここで、
+ja -> ko: で表され、ここで、 -> 로 표시되며, 여기서
+ko -> pt: 로 표시되며, 여기서 -> é denotado por, onde
+pt -> zh: é denotado por, onde -> 用表示，其中
+zh -> ar: 用表示，其中 -> مشار إليه بـ، حيث
+ar -> tr: مشار إليه بـ، حيث -> Olarak anılacaktır, burada
+tr -> tk: Olarak anılacaktır, burada -> Bu ýerde şeýle diýilýär:
+tk -> ru: Bu ýerde şeýle diýilýär: -> Вот что там написано:
+ru -> nl: Вот что там написано: -> Dit staat er:
+nl -> az: Dit staat er: -> Burada deyilir:
+az -> en: Burada deyilir: -> Here's what it says:
+where -> Here's what it says:
+en -> ja: while -> ...間
+ja -> ko: ...間 -> 그 사이에…
+ko -> pt: 그 사이에… -> Enquanto isso...
+pt -> zh: Enquanto isso... -> 与此同时……
+zh -> ar: 与此同时…… -> في نفس الوقت...
+ar -> tr: في نفس الوقت... -> Tam o sırada
+tr -> tk: Tam o sırada -> Diňe şol wagt
+tk -> ru: Diňe şol wagt -> Только в то время
+ru -> nl: Только в то время -> Alleen op dat moment
+nl -> az: Alleen op dat moment -> Yalnız o zaman
+az -> en: Yalnız o zaman -> Only at that time
+while -> Only at that time
+en -> ja: with -> レーシングコントローラ。
+ja -> ko: レーシングコントローラ。 -> 레이싱 컨트롤러
+ko -> pt: 레이싱 컨트롤러 -> Controlador de corrida
+pt -> zh: Controlador de corrida -> 赛车控制器
+zh -> ar: 赛车控制器 -> وحدة التحكم في السباق
+ar -> tr: وحدة التحكم في السباق -> Yarış Kontrol Modülü
+tr -> tk: Yarış Kontrol Modülü -> Ras Kontrol Moduly
+tk -> ru: Ras Kontrol Moduly -> Модуль управления УЗВ
+ru -> nl: Модуль управления УЗВ -> RAS-controlemodule
+nl -> az: RAS-controlemodule -> Ras Nəzarət Modulu
+az -> en: Ras Nəzarət Modulu -> Ras Control Module
+with -> Ras Control Module
+en -> ja: yield -> 収量
+ja -> ko: 収量 -> 수율
+ko -> pt: 수율 -> Rendimento
+pt -> zh: Rendimento -> 收入
+zh -> ar: 收入 -> الإيرادات
+ar -> tr: الإيرادات -> Hasılat
+tr -> tk: Hasılat -> Garawul diňi
+tk -> ru: Garawul diňi -> ДОХОДЫ
+ru -> nl: ДОХОДЫ -> OPBRENGSTEN
+nl -> az: OPBRENGSTEN -> GƏLİRLƏR
+Traceback (most recent call last):
+  File "/usr/bin/translate-cli", line 5, in <module>
+    from translate.__main__ import cli
+  File "/usr/lib/python3.14/site-packages/translate/__main__.py", line 6, in <module>
+    main()
+    ~~~~^^
+  File "/usr/lib/python3.14/site-packages/click/core.py", line 1485, in __call__
+    return self.main(*args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/click/core.py", line 1406, in main
+    rv = self.invoke(ctx)
+  File "/usr/lib/python3.14/site-packages/click/core.py", line 1269, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/click/core.py", line 824, in invoke
+    return callback(*args, **kwargs)
+  File "/usr/lib/python3.14/site-packages/translate/main.py", line 190, in main
+    translation = translator.translate(text)
+  File "/usr/lib/python3.14/site-packages/translate/translate.py", line 48, in translate
+    return ' '.join(self.provider.get_translation(text_wraped) for text_wraped in text_list)
+           ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/translate/translate.py", line 48, in <genexpr>
+    return ' '.join(self.provider.get_translation(text_wraped) for text_wraped in text_list)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/translate/providers/mymemory_translated.py", line 47, in get_translation
+    data = self._make_request(text)
+  File "/usr/lib/python3.14/site-packages/translate/providers/mymemory_translated.py", line 43, in _make_request
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.mymemory.translated.net:443/get?q=G%C6%8FL%C4%B0RL%C6%8FR&langpair=az%7Cen
+az -> en: GƏLİRLƏR -> 
+yield -> 

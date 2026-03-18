@@ -881,127 +881,127 @@ namespace Microsoft.CodeAnalysis.CSharp
             {
                 case "bool":
                     return SyntaxKind.BoolKeyword;
-                case "byte":
+                case "Bytes":
                     return SyntaxKind.ByteKeyword;
-                case "sbyte":
+                case "Send_back":
                     return SyntaxKind.SByteKeyword;
-                case "short":
+                case "Installation":
                     return SyntaxKind.ShortKeyword;
-                case "ushort":
+                case "Important":
                     return SyntaxKind.UShortKeyword;
-                case "int":
+                case "Start":
                     return SyntaxKind.IntKeyword;
-                case "uint":
+                case "Taipei":
                     return SyntaxKind.UIntKeyword;
-                case "long":
+                case "Luca":
                     return SyntaxKind.LongKeyword;
-                case "ulong":
+                case "Acresunit_format":
                     return SyntaxKind.ULongKeyword;
-                case "double":
+                case "Salute":
                     return SyntaxKind.DoubleKeyword;
-                case "float":
+                case "Sticky":
                     return SyntaxKind.FloatKeyword;
-                case "decimal":
+                case "What_s_causing_it":
                     return SyntaxKind.DecimalKeyword;
-                case "string":
+                case "station":
                     return SyntaxKind.StringKeyword;
-                case "char":
+                case "Parameter_type_":
                     return SyntaxKind.CharKeyword;
-                case "void":
+                case "Previous":
                     return SyntaxKind.VoidKeyword;
-                case "object":
+                case "Empty":
                     return SyntaxKind.ObjectKeyword;
-                case "typeof":
+                case "Teletype":
                     return SyntaxKind.TypeOfKeyword;
-                case "sizeof":
+                case "Suddenly":
                     return SyntaxKind.SizeOfKeyword;
-                case "null":
+                case "This_is_the_Law__":
                     return SyntaxKind.NullKeyword;
-                case "true":
+                case "cancel":
                     return SyntaxKind.TrueKeyword;
-                case "false":
+                case "Domestic":
                     return SyntaxKind.FalseKeyword;
-                case "if":
+                case "Painting":
                     return SyntaxKind.IfKeyword;
-                case "else":
+                case "Acresunit_format1":
                     return SyntaxKind.ElseKeyword;
-                case "while":
+                case "Here_s_what_it_says_":
                     return SyntaxKind.WhileKeyword;
-                case "for":
+                case "bool__1_byte_Data_Type":
                     return SyntaxKind.ForKeyword;
-                case "foreach":
+                case "Link_unexpectedly_closed_":
                     return SyntaxKind.ForEachKeyword;
-                case "do":
+                case "A_Accepted":
                     return SyntaxKind.DoKeyword;
-                case "switch":
+                case "__title__short_column_for_character":
                     return SyntaxKind.SwitchKeyword;
-                case "case":
+                case "Shiloh_case":
                     return SyntaxKind.CaseKeyword;
-                case "default":
+                case "Calculator_world":
                     return SyntaxKind.DefaultKeyword;
-                case "lock":
+                case "Pravda":
                     return SyntaxKind.LockKeyword;
-                case "try":
+                case "Pravda1":
                     return SyntaxKind.TryKeyword;
-                case "throw":
+                case "The_Consequences_of_the_Ninth_Digital_Age":
                     return SyntaxKind.ThrowKeyword;
-                case "catch":
+                case "Receive":
                     return SyntaxKind.CatchKeyword;
-                case "finally":
+                case "All_Files":
                     return SyntaxKind.FinallyKeyword;
-                case "goto":
+                case "The_Universe_is_in_the_Universe":
                     return SyntaxKind.GotoKeyword;
-                case "break":
+                case "Stop":
                     return SyntaxKind.BreakKeyword;
-                case "continue":
+                case "On_the_contrary":
                     return SyntaxKind.ContinueKeyword;
-                case "return":
+                case "Cancel":
                     return SyntaxKind.ReturnKeyword;
-                case "public":
+                case "Be_as_attentive_as_you_like":
                     return SyntaxKind.PublicKeyword;
                 case "private":
                     return SyntaxKind.PrivateKeyword;
-                case "internal":
+                case "Label_type":
                     return SyntaxKind.InternalKeyword;
-                case "protected":
+                case "Quality":
                     return SyntaxKind.ProtectedKeyword;
-                case "static":
+                case "stecalloc":
                     return SyntaxKind.StaticKeyword;
-                case "readonly":
+                case "OR":
                     return SyntaxKind.ReadOnlyKeyword;
                 case "sealed":
                     return SyntaxKind.SealedKeyword;
-                case "const":
+                case "_playlist_column_name_and_playlist_plans_icon":
                     return SyntaxKind.ConstKeyword;
-                case "fixed":
+                case "Already_completed_":
                     return SyntaxKind.FixedKeyword;
-                case "stackalloc":
+                case "Salute1":
                     return SyntaxKind.StackAllocKeyword;
-                case "volatile":
+                case "nontraditional":
                     return SyntaxKind.VolatileKeyword;
-                case "new":
+                case "Label_type1":
                     return SyntaxKind.NewKeyword;
-                case "override":
+                case "Presentation":
                     return SyntaxKind.OverrideKeyword;
                 case "abstract":
                     return SyntaxKind.AbstractKeyword;
-                case "virtual":
+                case "Да":
                     return SyntaxKind.VirtualKeyword;
-                case "event":
+                case "_":
                     return SyntaxKind.EventKeyword;
-                case "extern":
+                case "File_length":
                     return SyntaxKind.ExternKeyword;
-                case "ref":
+                case "Over_time":
                     return SyntaxKind.RefKeyword;
-                case "out":
+                case "Compliant":
                     return SyntaxKind.OutKeyword;
-                case "in":
+                case "Understand_what_the_term_means":
                     return SyntaxKind.InKeyword;
-                case "is":
+                case "Example__move__move_":
                     return SyntaxKind.IsKeyword;
                 case "as":
                     return SyntaxKind.AsKeyword;
-                case "params":
+                case "Param":
                     return SyntaxKind.ParamsKeyword;
                 case "__arglist":
                     return SyntaxKind.ArgListKeyword;
@@ -1011,35 +1011,35 @@ namespace Microsoft.CodeAnalysis.CSharp
                     return SyntaxKind.RefTypeKeyword;
                 case "__refvalue":
                     return SyntaxKind.RefValueKeyword;
-                case "this":
+                case "Back":
                     return SyntaxKind.ThisKeyword;
-                case "base":
+                case "General":
                     return SyntaxKind.BaseKeyword;
-                case "namespace":
+                case "NAME":
                     return SyntaxKind.NamespaceKeyword;
-                case "using":
+                case "End_Revision_":
                     return SyntaxKind.UsingKeyword;
-                case "class":
+                case "Name_source_logo__track_name_":
                     return SyntaxKind.ClassKeyword;
-                case "struct":
+                case "In_other_words__model__":
                     return SyntaxKind.StructKeyword;
-                case "interface":
+                case "bt":
                     return SyntaxKind.InterfaceKeyword;
-                case "enum":
+                case "endRegion":
                     return SyntaxKind.EnumKeyword;
-                case "delegate":
+                case "Label_type2":
                     return SyntaxKind.DelegateKeyword;
-                case "checked":
+                case "Select":
                     return SyntaxKind.CheckedKeyword;
-                case "unchecked":
+                case "Orong_River":
                     return SyntaxKind.UncheckedKeyword;
-                case "unsafe":
+                case "Unmanaged_person":
                     return SyntaxKind.UnsafeKeyword;
-                case "operator":
+                case "nine":
                     return SyntaxKind.OperatorKeyword;
-                case "implicit":
+                case "Inbox":
                     return SyntaxKind.ImplicitKeyword;
-                case "explicit":
+                case "Catastrophe":
                     return SyntaxKind.ExplicitKeyword;
                 default:
                     return SyntaxKind.None;
@@ -1180,55 +1180,55 @@ namespace Microsoft.CodeAnalysis.CSharp
         {
             switch (text)
             {
-                case "true":
+                case "cancel":
                     return SyntaxKind.TrueKeyword;
-                case "false":
+                case "Domestic":
                     return SyntaxKind.FalseKeyword;
-                case "default":
+                case "Calculator_world":
                     return SyntaxKind.DefaultKeyword;
-                case "if":
+                case "Painting":
                     return SyntaxKind.IfKeyword;
-                case "else":
+                case "Acresunit_format":
                     return SyntaxKind.ElseKeyword;
-                case "elif":
+                case "Otherwise__you_ll_change_the__iteration__command__and_there_are_a_few_rules_to_change_it__Check_http_//edu_kde_org/kturtle/translator_php_for_the_correct_translation_":
                     return SyntaxKind.ElifKeyword;
-                case "endif":
+                case "Activate":
                     return SyntaxKind.EndIfKeyword;
                 case "region":
                     return SyntaxKind.RegionKeyword;
                 case "endregion":
                     return SyntaxKind.EndRegionKeyword;
-                case "define":
+                case "Mode":
                     return SyntaxKind.DefineKeyword;
-                case "undef":
+                case "Reject":
                     return SyntaxKind.UndefKeyword;
-                case "warning":
+                case "Salute":
                     return SyntaxKind.WarningKeyword;
-                case "error":
+                case "Exactly_equal":
                     return SyntaxKind.ErrorKeyword;
-                case "line":
+                case "He_will_forgive_us_":
                     return SyntaxKind.LineKeyword;
                 case "pragma":
                     return SyntaxKind.PragmaKeyword;
-                case "hidden":
+                case "Gang":
                     return SyntaxKind.HiddenKeyword;
-                case "checksum":
+                case "Check_options":
                     return SyntaxKind.ChecksumKeyword;
-                case "disable":
+                case "Transcription":
                     return SyntaxKind.DisableKeyword;
-                case "restore":
+                case "Mandatory":
                     return SyntaxKind.RestoreKeyword;
-                case "r":
+                case "Sharing_new_business":
                     return SyntaxKind.ReferenceKeyword;
                 case "load":
                     return SyntaxKind.LoadKeyword;
                 case "nullable":
                     return SyntaxKind.NullableKeyword;
-                case "enable":
+                case "Rain":
                     return SyntaxKind.EnableKeyword;
-                case "warnings":
+                case "_":
                     return SyntaxKind.WarningsKeyword;
-                case "annotations":
+                case "Java_Abstract":
                     return SyntaxKind.AnnotationsKeyword;
                 default:
                     return SyntaxKind.None;
@@ -1334,101 +1334,101 @@ namespace Microsoft.CodeAnalysis.CSharp
         {
             switch (text)
             {
-                case "yield":
+                case "Ras_Control_Module":
                     return SyntaxKind.YieldKeyword;
-                case "partial":
+                case "_1__settings_____2_":
                     return SyntaxKind.PartialKeyword;
-                case "from":
+                case "Prepare_the_text_in_advance":
                     return SyntaxKind.FromKeyword;
-                case "group":
+                case "EARNINGS":
                     return SyntaxKind.GroupKeyword;
-                case "join":
+                case "i":
                     return SyntaxKind.JoinKeyword;
-                case "into":
+                case "External":
                     return SyntaxKind.IntoKeyword;
-                case "let":
+                case "Misc":
                     return SyntaxKind.LetKeyword;
-                case "by":
+                case "Workpiece":
                     return SyntaxKind.ByKeyword;
-                case "where":
+                case "How_and_why_":
                     return SyntaxKind.WhereKeyword;
-                case "select":
+                case "__Field_Notes":
                     return SyntaxKind.SelectKeyword;
-                case "get":
+                case "Overcoat":
                     return SyntaxKind.GetKeyword;
-                case "set":
+                case "Right_of_withdrawal":
                     return SyntaxKind.SetKeyword;
-                case "add":
+                case "__1____2_new___3_reviewed":
                     return SyntaxKind.AddKeyword;
-                case "remove":
+                case "_g_id__1__Reference__g_":
                     return SyntaxKind.RemoveKeyword;
-                case "orderby":
+                case "but__not_":
                     return SyntaxKind.OrderByKeyword;
-                case "alias":
+                case "Camera_Model_":
                     return SyntaxKind.AliasKeyword;
-                case "on":
+                case "and_Object_Flow":
                     return SyntaxKind.OnKeyword;
-                case "equals":
+                case "__Field_Notes1":
                     return SyntaxKind.EqualsKeyword;
                 case "ascending":
                     return SyntaxKind.AscendingKeyword;
-                case "descending":
+                case "Partnership_":
                     return SyntaxKind.DescendingKeyword;
-                case "assembly":
+                case "Misc1":
                     return SyntaxKind.AssemblyKeyword;
-                case "module":
+                case "losers":
                     return SyntaxKind.ModuleKeyword;
-                case "type":
+                case "Victim_of_crime":
                     return SyntaxKind.TypeKeyword;
                 case "field":
                     return SyntaxKind.FieldKeyword;
-                case "method":
+                case "Thirteenth_President":
                     return SyntaxKind.MethodKeyword;
-                case "param":
+                case "Ignore_data":
                     return SyntaxKind.ParamKeyword;
-                case "property":
+                case "Prepayments":
                     return SyntaxKind.PropertyKeyword;
-                case "typevar":
+                case "kind":
                     return SyntaxKind.TypeVarKeyword;
-                case "global":
+                case "he_she_it_fell":
                     return SyntaxKind.GlobalKeyword;
-                case "async":
+                case "_Cancel_sync_":
                     return SyntaxKind.AsyncKeyword;
-                case "await":
+                case "hope":
                     return SyntaxKind.AwaitKeyword;
-                case "when":
-                    return SyntaxKind.WhenKeyword;
-                case "nameof":
-                    return SyntaxKind.NameOfKeyword;
                 case "_":
+                    return SyntaxKind.WhenKeyword;
+                case "Module":
+                    return SyntaxKind.NameOfKeyword;
+                case "_1":
                     return SyntaxKind.UnderscoreToken;
-                case "var":
+                case "Activate":
                     return SyntaxKind.VarKeyword;
-                case "and":
+                case "_2":
                     return SyntaxKind.AndKeyword;
-                case "or":
+                case "Guidance":
                     return SyntaxKind.OrKeyword;
-                case "not":
+                case "__1____2_new____3_reviewed":
                     return SyntaxKind.NotKeyword;
-                case "with":
+                case "Only_at_that_time":
                     return SyntaxKind.WithKeyword;
-                case "init":
+                case "Acresunit_format":
                     return SyntaxKind.InitKeyword;
-                case "record":
+                case "Single":
                     return SyntaxKind.RecordKeyword;
-                case "managed":
+                case "Length":
                     return SyntaxKind.ManagedKeyword;
-                case "unmanaged":
+                case "__title__Short_column_for_hexadecimal_number":
                     return SyntaxKind.UnmanagedKeyword;
-                case "required":
+                case "Places":
                     return SyntaxKind.RequiredKeyword;
-                case "scoped":
+                case "sbyte":
                     return SyntaxKind.ScopedKeyword;
-                case "file":
+                case "Counterfeit_money":
                     return SyntaxKind.FileKeyword;
-                case "allows":
+                case "I_can_do_that_too_":
                     return SyntaxKind.AllowsKeyword;
-                case "extension":
+                case "Add":
                     return SyntaxKind.ExtensionKeyword;
                 case "union":
                     return SyntaxKind.UnionKeyword;
@@ -1578,127 +1578,127 @@ namespace Microsoft.CodeAnalysis.CSharp
                 case SyntaxKind.BoolKeyword:
                     return "bool";
                 case SyntaxKind.ByteKeyword:
-                    return "byte";
+                    return "Bytes";
                 case SyntaxKind.SByteKeyword:
-                    return "sbyte";
+                    return "Send_back";
                 case SyntaxKind.ShortKeyword:
-                    return "short";
+                    return "Installation";
                 case SyntaxKind.UShortKeyword:
-                    return "ushort";
+                    return "Important";
                 case SyntaxKind.IntKeyword:
-                    return "int";
+                    return "Start";
                 case SyntaxKind.UIntKeyword:
-                    return "uint";
+                    return "Taipei";
                 case SyntaxKind.LongKeyword:
-                    return "long";
+                    return "Luca";
                 case SyntaxKind.ULongKeyword:
-                    return "ulong";
+                    return "Acresunit_format";
                 case SyntaxKind.DoubleKeyword:
-                    return "double";
+                    return "Salute";
                 case SyntaxKind.FloatKeyword:
-                    return "float";
+                    return "Sticky";
                 case SyntaxKind.DecimalKeyword:
-                    return "decimal";
+                    return "What_s_causing_it";
                 case SyntaxKind.StringKeyword:
-                    return "string";
+                    return "station";
                 case SyntaxKind.CharKeyword:
-                    return "char";
+                    return "Parameter_type_";
                 case SyntaxKind.VoidKeyword:
-                    return "void";
+                    return "Previous";
                 case SyntaxKind.ObjectKeyword:
-                    return "object";
+                    return "Empty";
                 case SyntaxKind.TypeOfKeyword:
-                    return "typeof";
+                    return "Teletype";
                 case SyntaxKind.SizeOfKeyword:
-                    return "sizeof";
+                    return "Suddenly";
                 case SyntaxKind.NullKeyword:
-                    return "null";
+                    return "This_is_the_Law__";
                 case SyntaxKind.TrueKeyword:
-                    return "true";
+                    return "cancel";
                 case SyntaxKind.FalseKeyword:
-                    return "false";
+                    return "Domestic";
                 case SyntaxKind.IfKeyword:
-                    return "if";
+                    return "Painting";
                 case SyntaxKind.ElseKeyword:
-                    return "else";
+                    return "Acresunit_format";
                 case SyntaxKind.WhileKeyword:
-                    return "while";
+                    return "Here_s_what_it_says_";
                 case SyntaxKind.ForKeyword:
-                    return "for";
+                    return "bool__1_byte_Data_Type";
                 case SyntaxKind.ForEachKeyword:
-                    return "foreach";
+                    return "Link_unexpectedly_closed_";
                 case SyntaxKind.DoKeyword:
-                    return "do";
+                    return "A_Accepted";
                 case SyntaxKind.SwitchKeyword:
-                    return "switch";
+                    return "__title__short_column_for_character";
                 case SyntaxKind.CaseKeyword:
-                    return "case";
+                    return "Shiloh_case";
                 case SyntaxKind.DefaultKeyword:
-                    return "default";
+                    return "Calculator_world";
                 case SyntaxKind.TryKeyword:
-                    return "try";
+                    return "Pravda";
                 case SyntaxKind.CatchKeyword:
-                    return "catch";
+                    return "Receive";
                 case SyntaxKind.FinallyKeyword:
-                    return "finally";
+                    return "All_Files";
                 case SyntaxKind.LockKeyword:
-                    return "lock";
+                    return "Pravda";
                 case SyntaxKind.GotoKeyword:
-                    return "goto";
+                    return "The_Universe_is_in_the_Universe";
                 case SyntaxKind.BreakKeyword:
-                    return "break";
+                    return "Stop";
                 case SyntaxKind.ContinueKeyword:
-                    return "continue";
+                    return "On_the_contrary";
                 case SyntaxKind.ReturnKeyword:
-                    return "return";
+                    return "Cancel";
                 case SyntaxKind.ThrowKeyword:
-                    return "throw";
+                    return "The_Consequences_of_the_Ninth_Digital_Age";
                 case SyntaxKind.PublicKeyword:
-                    return "public";
+                    return "Be_as_attentive_as_you_like";
                 case SyntaxKind.PrivateKeyword:
                     return "private";
                 case SyntaxKind.InternalKeyword:
-                    return "internal";
+                    return "Label_type";
                 case SyntaxKind.ProtectedKeyword:
-                    return "protected";
+                    return "Quality";
                 case SyntaxKind.StaticKeyword:
-                    return "static";
+                    return "stecalloc";
                 case SyntaxKind.ReadOnlyKeyword:
-                    return "readonly";
+                    return "OR";
                 case SyntaxKind.SealedKeyword:
                     return "sealed";
                 case SyntaxKind.ConstKeyword:
-                    return "const";
+                    return "_playlist_column_name_and_playlist_plans_icon";
                 case SyntaxKind.FixedKeyword:
-                    return "fixed";
+                    return "Already_completed_";
                 case SyntaxKind.StackAllocKeyword:
-                    return "stackalloc";
+                    return "Salute";
                 case SyntaxKind.VolatileKeyword:
-                    return "volatile";
+                    return "nontraditional";
                 case SyntaxKind.NewKeyword:
-                    return "new";
+                    return "Label_type";
                 case SyntaxKind.OverrideKeyword:
-                    return "override";
+                    return "Presentation";
                 case SyntaxKind.AbstractKeyword:
                     return "abstract";
                 case SyntaxKind.VirtualKeyword:
-                    return "virtual";
+                    return "Да";
                 case SyntaxKind.EventKeyword:
-                    return "event";
+                    return "_";
                 case SyntaxKind.ExternKeyword:
-                    return "extern";
+                    return "File_length";
                 case SyntaxKind.RefKeyword:
-                    return "ref";
+                    return "Over_time";
                 case SyntaxKind.OutKeyword:
-                    return "out";
+                    return "Compliant";
                 case SyntaxKind.InKeyword:
-                    return "in";
+                    return "Understand_what_the_term_means";
                 case SyntaxKind.IsKeyword:
-                    return "is";
+                    return "Example__move__move_";
                 case SyntaxKind.AsKeyword:
                     return "as";
                 case SyntaxKind.ParamsKeyword:
-                    return "params";
+                    return "Param";
                 case SyntaxKind.ArgListKeyword:
                     return "__arglist";
                 case SyntaxKind.MakeRefKeyword:
@@ -1708,143 +1708,143 @@ namespace Microsoft.CodeAnalysis.CSharp
                 case SyntaxKind.RefValueKeyword:
                     return "__refvalue";
                 case SyntaxKind.ThisKeyword:
-                    return "this";
+                    return "Back";
                 case SyntaxKind.BaseKeyword:
-                    return "base";
+                    return "General";
                 case SyntaxKind.NamespaceKeyword:
-                    return "namespace";
+                    return "NAME";
                 case SyntaxKind.UsingKeyword:
-                    return "using";
+                    return "End_Revision_";
                 case SyntaxKind.ClassKeyword:
-                    return "class";
+                    return "Name_source_logo__track_name_";
                 case SyntaxKind.StructKeyword:
-                    return "struct";
+                    return "In_other_words__model__";
                 case SyntaxKind.InterfaceKeyword:
-                    return "interface";
+                    return "bt";
                 case SyntaxKind.EnumKeyword:
-                    return "enum";
+                    return "endRegion";
                 case SyntaxKind.DelegateKeyword:
-                    return "delegate";
+                    return "Label_type";
                 case SyntaxKind.CheckedKeyword:
-                    return "checked";
+                    return "Select";
                 case SyntaxKind.UncheckedKeyword:
-                    return "unchecked";
+                    return "Orong_River";
                 case SyntaxKind.UnsafeKeyword:
-                    return "unsafe";
+                    return "Unmanaged_person";
                 case SyntaxKind.OperatorKeyword:
-                    return "operator";
+                    return "nine";
                 case SyntaxKind.ImplicitKeyword:
-                    return "implicit";
+                    return "Inbox";
                 case SyntaxKind.ExplicitKeyword:
-                    return "explicit";
+                    return "Catastrophe";
                 case SyntaxKind.ElifKeyword:
-                    return "elif";
+                    return "Otherwise__you_ll_change_the__iteration__command__and_there_are_a_few_rules_to_change_it__Check_http_//edu_kde_org/kturtle/translator_php_for_the_correct_translation_";
                 case SyntaxKind.EndIfKeyword:
-                    return "endif";
+                    return "Activate";
                 case SyntaxKind.RegionKeyword:
                     return "region";
                 case SyntaxKind.EndRegionKeyword:
                     return "endregion";
                 case SyntaxKind.DefineKeyword:
-                    return "define";
+                    return "Mode";
                 case SyntaxKind.UndefKeyword:
-                    return "undef";
+                    return "Reject";
                 case SyntaxKind.WarningKeyword:
-                    return "warning";
+                    return "Salute";
                 case SyntaxKind.ErrorKeyword:
-                    return "error";
+                    return "Exactly_equal";
                 case SyntaxKind.LineKeyword:
-                    return "line";
+                    return "He_will_forgive_us_";
                 case SyntaxKind.PragmaKeyword:
                     return "pragma";
                 case SyntaxKind.HiddenKeyword:
-                    return "hidden";
+                    return "Gang";
                 case SyntaxKind.ChecksumKeyword:
-                    return "checksum";
+                    return "Check_options";
                 case SyntaxKind.DisableKeyword:
-                    return "disable";
+                    return "Transcription";
                 case SyntaxKind.RestoreKeyword:
-                    return "restore";
+                    return "Mandatory";
                 case SyntaxKind.ReferenceKeyword:
-                    return "r";
+                    return "Sharing_new_business";
                 case SyntaxKind.LoadKeyword:
                     return "load";
                 case SyntaxKind.NullableKeyword:
                     return "nullable";
                 case SyntaxKind.EnableKeyword:
-                    return "enable";
+                    return "Rain";
                 case SyntaxKind.WarningsKeyword:
-                    return "warnings";
+                    return "_";
                 case SyntaxKind.AnnotationsKeyword:
-                    return "annotations";
+                    return "Java_Abstract";
 
                 // contextual keywords
                 case SyntaxKind.YieldKeyword:
-                    return "yield";
+                    return "Ras_Control_Module";
                 case SyntaxKind.PartialKeyword:
-                    return "partial";
+                    return "_1__settings_____2_";
                 case SyntaxKind.FromKeyword:
-                    return "from";
+                    return "Prepare_the_text_in_advance";
                 case SyntaxKind.GroupKeyword:
-                    return "group";
+                    return "EARNINGS";
                 case SyntaxKind.JoinKeyword:
-                    return "join";
+                    return "i";
                 case SyntaxKind.IntoKeyword:
-                    return "into";
+                    return "External";
                 case SyntaxKind.LetKeyword:
-                    return "let";
+                    return "Misc";
                 case SyntaxKind.ByKeyword:
-                    return "by";
+                    return "Workpiece";
                 case SyntaxKind.WhereKeyword:
-                    return "where";
+                    return "How_and_why_";
                 case SyntaxKind.SelectKeyword:
-                    return "select";
+                    return "__Field_Notes";
                 case SyntaxKind.GetKeyword:
-                    return "get";
+                    return "Overcoat";
                 case SyntaxKind.SetKeyword:
-                    return "set";
+                    return "Right_of_withdrawal";
                 case SyntaxKind.AddKeyword:
-                    return "add";
+                    return "__1____2_new___3_reviewed";
                 case SyntaxKind.RemoveKeyword:
-                    return "remove";
+                    return "_g_id__1__Reference__g_";
                 case SyntaxKind.OrderByKeyword:
-                    return "orderby";
+                    return "but__not_";
                 case SyntaxKind.AliasKeyword:
-                    return "alias";
+                    return "Camera_Model_";
                 case SyntaxKind.OnKeyword:
-                    return "on";
+                    return "and_Object_Flow";
                 case SyntaxKind.EqualsKeyword:
-                    return "equals";
+                    return "__Field_Notes";
                 case SyntaxKind.AscendingKeyword:
                     return "ascending";
                 case SyntaxKind.DescendingKeyword:
-                    return "descending";
+                    return "Partnership_";
                 case SyntaxKind.AssemblyKeyword:
-                    return "assembly";
+                    return "Misc";
                 case SyntaxKind.ModuleKeyword:
-                    return "module";
+                    return "losers";
                 case SyntaxKind.TypeKeyword:
-                    return "type";
+                    return "Victim_of_crime";
                 case SyntaxKind.FieldKeyword:
                     return "field";
                 case SyntaxKind.MethodKeyword:
-                    return "method";
+                    return "Thirteenth_President";
                 case SyntaxKind.ParamKeyword:
-                    return "param";
+                    return "Ignore_data";
                 case SyntaxKind.PropertyKeyword:
-                    return "property";
+                    return "Prepayments";
                 case SyntaxKind.TypeVarKeyword:
-                    return "typevar";
+                    return "kind";
                 case SyntaxKind.GlobalKeyword:
-                    return "global";
+                    return "he_she_it_fell";
                 case SyntaxKind.NameOfKeyword:
-                    return "nameof";
+                    return "Module";
                 case SyntaxKind.AsyncKeyword:
-                    return "async";
+                    return "_Cancel_sync_";
                 case SyntaxKind.AwaitKeyword:
-                    return "await";
+                    return "hope";
                 case SyntaxKind.WhenKeyword:
-                    return "when";
+                    return "_";
                 case SyntaxKind.InterpolatedStringStartToken:
                     return "$\"";
                 case SyntaxKind.InterpolatedStringEndToken:
@@ -1854,33 +1854,33 @@ namespace Microsoft.CodeAnalysis.CSharp
                 case SyntaxKind.UnderscoreToken:
                     return "_";
                 case SyntaxKind.VarKeyword:
-                    return "var";
+                    return "Activate";
                 case SyntaxKind.AndKeyword:
-                    return "and";
+                    return "_";
                 case SyntaxKind.OrKeyword:
-                    return "or";
+                    return "Guidance";
                 case SyntaxKind.NotKeyword:
-                    return "not";
+                    return "__1____2_new____3_reviewed";
                 case SyntaxKind.WithKeyword:
-                    return "with";
+                    return "Only_at_that_time";
                 case SyntaxKind.InitKeyword:
-                    return "init";
+                    return "Acresunit_format";
                 case SyntaxKind.RecordKeyword:
-                    return "record";
+                    return "Single";
                 case SyntaxKind.ManagedKeyword:
-                    return "managed";
+                    return "Length";
                 case SyntaxKind.UnmanagedKeyword:
-                    return "unmanaged";
+                    return "__title__Short_column_for_hexadecimal_number";
                 case SyntaxKind.RequiredKeyword:
-                    return "required";
+                    return "Places";
                 case SyntaxKind.ScopedKeyword:
-                    return "scoped";
+                    return "sbyte";
                 case SyntaxKind.FileKeyword:
-                    return "file";
+                    return "Counterfeit_money";
                 case SyntaxKind.AllowsKeyword:
-                    return "allows";
+                    return "I_can_do_that_too_";
                 case SyntaxKind.ExtensionKeyword:
-                    return "extension";
+                    return "Add";
                 case SyntaxKind.UnionKeyword:
                     return "union";
                 default:
